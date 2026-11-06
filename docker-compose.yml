@@ -1,0 +1,32 @@
+# Copyright (c) 2026 [Dev Crish Kha]. All rights reserved.
+#
+# This source code and all associated materials are proprietary and
+# confidential to [Dev Crish Kha]. Unauthorized copying, modification,
+# distribution, publication, sublicensing, or use of this code, in whole
+# or in part, is strictly prohibited without prior written permission
+# from the copyright holder.
+
+services:
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: qdrant
+    restart: unless-stopped
+    ports:
+      - "6333:6333" # REST API (HTTP)
+      - "6334:6334" # gRPC API
+    volumes:
+      # Format is host_path:container_path
+      - "H:\\Docker_Volumes\\Qdrant-Volume:/qdrant/storage"
+
+  mongodb:
+    image: mongodb/mongodb-community-server:8.0-ubi8-slim
+    container_name: weathergpt-mongodb
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: monalisa
+    volumes:
+      # Format: host_path:container_path
+      - "H:\\Docker_Volumes\\MongoDB-Volume:/data/db"

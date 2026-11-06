@@ -1,0 +1,19 @@
+{
+  "501368cfe2ad": {
+    "id": "501368cfe2ad",
+    "title": "What is the climate of madhyamgram today",
+    "messages": [
+      {
+        "role": "user",
+        "content": "What is the climate of madhyamgram today"
+      },
+      {
+        "role": "assistant",
+        "content": "Here’s the current weather (climate) for **Madhyamgram (North 24 Parganas, West Bengal)** on 2026‑09‑28:\n\n| Parameter | Value |\n|-----------|-------|\n| **Temperature** | **32 °C** |\n| **Feels‑like (apparent) temperature** | **39.3 °C** |\n| **Relative Humidity** | **67 %** |\n| **Wind** | 350° (north‑north‑west) at **18.5 km/h** |\n| **Atmospheric pressure (MSLP)** | **1007 hPa** |\n| **Rainfall (last 24 h)** | **0 mm** |\n| **Weather condition** | **Haze** (Weather Code 5) |\n| **Cloudiness (Nebulosity)** | 5 / 10 (moderate) |\n| **Sunrise** | 05:27 local time |\n| **Sunset** | 17:27 local time |\n| **Moonrise** | 18:23 local time |\n| **Moonset** | 06:45 local time |\n\n**What this means**\n\n- The day is hot and humid, with temperatures around 32 °C but feeling much hotter (≈ 39 °C) because of the haze and high humidity.  \n- Winds are light to moderate from the north‑north‑west.  \n- No rain has been recorded in the past 24 hours, so conditions are dry.  \n- Visibility may be reduced due to haze, so it’s a good idea to limit strenuous outdoor activities during the peak heat hours.\n\nStay hydrated and consider indoor or shaded activities if you need to be outside during the hottest part of the day. If you’d like a forecast for the next few days or any other details, just let me know!"
+      }
+    ],
+    "html_blocks": [],
+    "created_at": "2026-09-28T15:46:47.001813+00:00",
+    "updated_at": "2026-09-28T15:47:00.845433+00:00"
+  }
+}

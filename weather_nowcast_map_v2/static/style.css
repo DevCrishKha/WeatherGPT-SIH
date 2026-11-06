@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f5f6f8;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 20px;
+    background: #1f2937;
+    color: white;
+}
+
+h1 {
+    margin: 0;
+    font-size: 20px;
+}
+
+button {
+    border: 0;
+    border-radius: 6px;
+    padding: 10px 14px;
+    cursor: pointer;
+}
+
+#status {
+    padding: 10px 20px;
+    background: white;
+}
+
+#map {
+    height: calc(100vh - 105px);
+    min-height: 500px;
+}
+
+.leaflet-tooltip {
+    max-width: 320px;
+    white-space: normal;
+}

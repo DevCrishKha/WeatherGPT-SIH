@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Sign in · WeatherGPT</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+</head>
+<body class="auth-body">
+  <main class="auth-card">
+    <div class="auth-mark" aria-hidden="true">
+      <svg viewBox="0 0 48 48" width="34" height="34">
+        <circle cx="24" cy="24" r="21" fill="none" stroke="currentColor" stroke-width="2"/>
+        <line x1="24" y1="6" x2="24" y2="12" stroke="currentColor" stroke-width="2"/>
+        <line x1="24" y1="36" x2="24" y2="42" stroke="currentColor" stroke-width="2"/>
+        <circle cx="24" cy="24" r="3.5" fill="currentColor"/>
+        <line x1="24" y1="24" x2="32" y2="18" stroke="currentColor" stroke-width="2"/>
+      </svg>
+    </div>
+    <h1>WeatherGPT</h1>
+    <p class="auth-sub">Sign in to pick up where you left off.</p>
+
+    {% if error %}<p class="auth-error">{{ error }}</p>{% endif %}
+
+    <form method="post" action="{{ url_for('login') }}">
+      <label for="username">Username</label>
+      <input id="username" name="username" type="text" autocomplete="username" required autofocus />
+      <button type="submit">Continue</button>
+    </form>
+    <p class="auth-note">Demo auth — replace this route with your real login and keep setting <code>session['logged_in']</code> and <code>session['user_id']</code>.</p>
+  </main>
+</body>
+</html>

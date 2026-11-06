@@ -1,0 +1,2934 @@
+[
+    {
+        "imdDistrict": "SOUTH GARO HILLS",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "EAST KHASI HILLS",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "EAST JAINTIA HILLS",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "WEST KHASI HILLS",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "WEST GARO HILLS",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "EAST GARO HILLS",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "RI BHOI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KARBI ANALOG",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "DHUBRI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KAMRUP",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "COOCH BEHAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "GOALPARA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "NALBARI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MORIGAON",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KAMRUP RURAL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "DARRANG",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KOKRAJHAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "CHIRANG",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "NAGAON",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "JALPAIGURI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BAKSA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "UDALGURI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SONITPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "WEST KAMENG",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "TAWANG",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BONGAIGAON",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BARPETA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BANSWARA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PRATAPGARH-UP",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KANYAKUMARI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "THIRUVANANTHAPURAM",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "RAMANATHAPURAM",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KOLLAM",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "THOOTHUKUDI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "THIRUNELVELI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "VIRUDHUNAGAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KOTTAYAM",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "ALAPPUZHA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "THENI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "ERNAKULAM",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "MADURAI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "IDUKKI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "SIVAGANGAI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PUDUKKOTTAI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "THRISSUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "DINDIGUL",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "NAGAPATTINAM",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "THIRUVARUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "KARUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "THANJAVUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "PALAKKAD",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "THIRUPPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "LOWER SIANG",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "THIRUCHIRAPALLI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "COIMBATORE",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "ARIYALUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "PERAMBALUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "MALAPPURAM",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "NAMAKKAL",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "NILGIRIS",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "CUDDALORE",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "KOZHIKODE",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "PUDUCHERRY",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "ERODE",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "WAYANAD",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "SALEM",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "CHAMARAJANAGAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KANNUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "VILLUPURAM",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "DHARMAPURI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "MYSORE",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KASARAGOD",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "KODAGU",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "THIRUVANNAMALAI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "KRISHNAGIRI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "KANCHEEPURAM",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "MANDHYA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "CHENNAI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "VELLORE",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "DAKSHIN KANNADA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BANGLORE URBAN",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "RAMNAGAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "HASSAN",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "CHIKMAGALUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "CHITTOOR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "UDUPI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "TUMKUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "SHIMOGA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "DAVANGERE",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "CHITRADURGA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "SPSR NELLORE",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "YSR KADAPA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "HAVERI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "ANANTAPURAMU",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "SOUTH GOA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "UTTAR KANNADA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "DHARWAD",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "NORTH GOA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "GADAG",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "BELLARY",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "KOPPAL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KURNOOL",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "PRAKASAM",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "JOGULAMBA GADWAL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "RAICHUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "WANAPARTHY",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SINDHUDURG",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "GUNTUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "NAGARKURNOOL",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "BAGALKOT",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "BELGAUM",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MAHABUBNAGAR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "KRISHNA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KOLHAPUR",
+        "colorCode": "3"
+    },
+    {
+        "imdDistrict": "NALGONDA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "HYDERABAD",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SURYAPET",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "RANGAREDDY",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BIJAAPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KHAMMAM",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "VIKARABAD",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SANGLI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "M. MALKAJGIRI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "GULBARGA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "Y. BHUVANAGIRI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "JANGAON",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "EAST GODAVARI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "MAHABUBABAD",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MEDAK",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "WEST GODAVARI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "RATNAGIRI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "HANAMKONDA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "WARANGAL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SANGAREDDY",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SATARA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SIDDIPET",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BIDAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "VISHAKHAPATNAM",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "SOLAPUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "RAJANNA SIRCILLA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KARIMNAGAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MALKANGIRI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "OSMANABAD",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "PEDDAPALLE",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MULUGU",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "LATUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "NIZAMABAD",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "JAGTIAL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SRIKAKULAM",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "VIZIANAGARAM",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "MUMBAI CITY",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "KORAPUT",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "MANCHERIAL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "RAIGAD",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "SUKMA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "BIJAPUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "MUMBAI SUBURBAN",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "BEED",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "PUNE",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BASTAR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "KUMARAM BHEEM",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "GAJAPATHI",
+        "colorCode": "3"
+    },
+    {
+        "imdDistrict": "NANDED",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "ADILABAD",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "RAYAGARHA",
+        "colorCode": "3"
+    },
+    {
+        "imdDistrict": "PARBHANI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "NABARANGAPUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "AHMEDNAGAR",
+        "colorCode": "3"
+    },
+    {
+        "imdDistrict": "KONDAGAON",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "PURI",
+        "colorCode": "3"
+    },
+    {
+        "imdDistrict": "GANJAM",
+        "colorCode": "3"
+    },
+    {
+        "imdDistrict": "PALGHAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KALAHANDI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "KHORDHA",
+        "colorCode": "3"
+    },
+    {
+        "imdDistrict": "JAGATSINGHPUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "KANKER",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "NAYAGARH",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "KANDHAMAL",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "JALNA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "YAVATMAL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "AURANGABAAD",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "CUTTACK",
+        "colorCode": "3"
+    },
+    {
+        "imdDistrict": "KENDRAPARHA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "BAUDA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "DHAMTARI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "NASHIK",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BALOD",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "BALANGIR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "NUAPARHA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "DANGS",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "SUBARNAPUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "DHENKANAL",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "JAJAPUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "AKOLA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "VALSAD",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "BHADRAK",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "BULDHANA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "JALGAON",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "DURG",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "MAHASAMUND",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "GARIABAND",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "GONDIA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BURHANPUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "ANUGUL",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "DEOGARH",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "NAGPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SURAT",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "SOUTH 24 PARGANAS",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "AMRAVATI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BHAVNAGAR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "BALODA BAZAR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "JUNAGARH",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "BARAGARH",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "BEMETARA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "BALESHWAR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "NANDURBAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SAMBALPUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "KENDUJHAR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "BARWANI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "JANJGIR_CHAMPA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "AMRELI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "PORBANDAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BALAGHAT",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "BETUL",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "BHARUCH",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "KHANDWA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "KABIRDHAM",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "SUNDARGARH",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "HARDA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "KHARGONE",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "PURBA MEDINIPUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "MAYURBHANJ",
+        "colorCode": "3"
+    },
+    {
+        "imdDistrict": "BOTAD",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "ALIRAJPUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "RAIGARH",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "CHHINDWARA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "KOLKATA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "HOWRAH",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "SEONI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "ANAND",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PASCHIM SINGHBHUMI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "DEVBHOOMI DWARKA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KORBA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "VADODARA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "HOSHANGABAD",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "PASCHIM MEDINIPUR",
+        "colorCode": "3"
+    },
+    {
+        "imdDistrict": "LAWNGTLAI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BILASPUR",
+        "colorCode": "3"
+    },
+    {
+        "imdDistrict": "MANDLA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "INDORE",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SAIHA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SARAIKELA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "DHAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "NARSINGHPUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "JASHPUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "PANCHMAHAL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "JAMNAGAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "DEWAS",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KHUNTI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "JHABUA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "DINDORI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "HOOGHLY",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "KHERA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "ANUPPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "NORTH 24 PARGANAS",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "RAJKOT",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "GANDHINAGAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "JABALPUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "DAHOD",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SEHORE",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "GUMLA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "RANCHI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "AHMADABAD",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BANKURA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "SURENDRANAGAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "RAISEN",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "LUNGLEI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PURULIA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "UJJAIN",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BHOPAL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "RATLAM",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SERCHHIP",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PURBA BARDHAMAN",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BOKARO",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "UMARIA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "KATNI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "SOUTH TRIPURA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BALRAMPUR-UP",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "DHANBAD",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "NADIA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SHAHDOL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "RAJGARH",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MAHESANA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "VIDISHA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SHAJAPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "HAZARIBAGH",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PATAN",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "DAMOH",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "SAGAR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "CHAMPHAI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "GARHWA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "CHATRA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "WEST TRIPURA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "SIDHI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "DHALAI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MAMIT",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "LATEHAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SURAJPUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "DEOGAARH",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BIRBHUM",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "DUMKA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MANDSAUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "AIZAWL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "GIRIDIH",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KODARMA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "JHALAWAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KOLASIB",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "NORTH TRIPURA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PAKUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BANASKANTHA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KACHCHH",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MURSHIDABAD",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "CHITTORGARH",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "GAYA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "AURANGABAD",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "GUNA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "NEEMUCH",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SATNA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "CHURACHANDPUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "NAWADA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "CHANDEL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BISHNUPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BANKA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "JAMUI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "LALITPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MIRZAPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "HAILAKANDI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SHEIKHPURA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "ARWAL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KARIMGANJ",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "GOODA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "JEHANABAD",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "CHHATARPUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "ROHTAS",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "LAKHISARAI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KAIMUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "THOUBAL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SAHEBGANJ",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BARAN",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "IMPHAL WEST",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BHADOHI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MUNGER",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SIROHI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "NALANDA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "CHANDAULI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "VARANASI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "IMPHAL EAST",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "TIKAMGARH",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MAHOBA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "CACHAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BHAGALPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MALDA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BUXAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PATNA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BHOJPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KAUSHAMBI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "DAKSHIN DINAJPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KHAGARIA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BEGUSARAI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BANDA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "GAZIPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KOTA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BUNDI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "JHANSI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SHIVPURI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "TAMENGLONG",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "RAJSAMAND",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KATIHAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "VAISHALI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PRATAPGARH-RJ",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SAMASTIPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "HAMIRPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SAHARSA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "JAUNPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "FATEHPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BALLIA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MADHEPURA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SENAPATI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SHEOPUR KALAN",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PURNEA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "DATIA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SARAN",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "DIMA HASAO",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "GWALIOR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "UKHRUL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SIWAN",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "JALAUN",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "AZAMGARH",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MUZAFFARPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "DARBHANGA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SULTANPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "DIMAPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PHEK",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "RAIBEARELI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KANPUR NAGAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PALI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PEREN",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "AMBEDKAR NAGAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "GOPALGANJ",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "AMETHI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SUPAUL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "UTTAR DINAJPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "ARARIA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SAWAI MADHOPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KISHANGANJ",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MADHUBANI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "DEORIA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BHIND",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BARMER",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "AYODHYA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MORENA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "AURAIYA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "ZUNHEBOTO",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "SITAMARHI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KANPUR DEHAT",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "DHOLPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "ETAWAH",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KARAULI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "UNNAO",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "EAST CHAMPARAN",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "AJMER",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BASTI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "GORAKHPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SANT KABIR NAGAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "LUCKNOW",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "WOKHA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "DAUSA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KANNAUJ",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KUSHINAGAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BARABANKI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "DARJEELING",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "AGRA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "TUENSANG",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "MAINPURI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "FIROZABAD",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "GOLAGHAT",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SIDDHARTH NAGAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "WEST CHAMPARAN",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "GANGTOK",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "NAMCHI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "MON",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "FARRUKHABAD",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "ETAH",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "HARDOI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "GYALSHING",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "JORHAT",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "HATHRAS",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BHARATPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BALARAMPUR-CG",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "JODHPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SITAPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SIBSAGAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "NAGAUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SHRAWASTI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MATHURA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "TIRAP",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "KANSHIRAMNAGAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PALWAL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "ALIGARH",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PAPUM PARE",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "ALWAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SIKAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MANGAN",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "BAHRAICH",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "DIBRUGARH",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "JAISALMER",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SHAHJAHANPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BADAUN",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MAHENDRAGARH",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "EAST KAMENG",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "REWARI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "CHANGLANG",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "GURGAON",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "LOWER SUBANSIRI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "JHUNJHUNU",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SOUTH DELHI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "LAKHIMPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "GAUTAM BUDH NAGAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "CENTRAL DELHI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BULANDSAHAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "EAST DELHI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SOUTH WEST DELHI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "LAKHIMPUR KHERI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "TINSUKIA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "WEST DELHI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "NORTH EAST DELHI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BAREILLY",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PILIBHIT",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "JHAJJAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KURUNG KUMEY",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "GHAZIABAD",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "NORTH WEST DELHI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "CHURU",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BHIWANI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "AMROHA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BIKANER",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "EAST SIANG",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MORADABAD",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MEERUT",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "UPPER SUBANSIRI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BAGHPAT",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SONIPAT",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "ANJAW",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "CHAMPAWAT",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PANIPAT",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "NAINITAL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "WEST SIANG",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MUZAFARNAGAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BIJNOR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "FATEHABAD",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "JIND",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "ALMORA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KARNAL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "UPPER SIANG",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SIRSA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "HARIDWAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PAURI GARHWAL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KAITHAL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KURUKSHETRA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BAGESHWAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "DIBANG VALLEY",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SRI GANGANAGAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SAHARANPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "YAMUNANAGAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BATHINDA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BARNALA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "CHANDIGARH",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SANGRUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "RUDRAPRAYAG",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PITHORAGARH",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MUKTSAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "TEHRI GARHWAL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "FARIDKOT",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "FATEHGARH SAHIB",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PANCHKULA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MOGA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "DEHRADUN",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SIRMAUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "CHAMOLI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "LUDHIANA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "FIROZPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "NAWASHAHR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SOLAN",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KAPURTHALA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "UTTARKASHI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BILAASPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "JALANDHAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "TARN TARAN",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SHIMLA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "UNA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "HAMIRPURR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KINNAUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "MANDI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "AMRITSAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "HOSHIARPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KULLU",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "KANGRA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "GURDASPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "CHAMBA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "LAHUL&SPITI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "NORTH & MIDDLE ANDAMAN",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "SOUTH ANDAMAN",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "NICOBAR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "LAKSHADWEEP",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "WEST JAINTIA HILLS",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PASHCHIM BARDHAMAN",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SIANG",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SHI YOMI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "LEPA RADA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PAKKE KESSANG",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KRA DAADI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "TONK",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MORBI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "GIR SOMNATH",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "THANE",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "TAPI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "DHULE",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "WASHIM",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "HINGOLI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "YADGIR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "DANTEWARA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "NARAYANPUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "BHANDARA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "RAIPUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "JHARSUGUDA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "SIMDEGA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "LOHARDAGA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PALAMU",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "JAMTARA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "RAMGARH",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MUNGELI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "SINGRAULI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KOREA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "SURGUJA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "SHEOHAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "FARIDABAD",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MEWAT",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MAHISAGAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "AGAR-MALWA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "ASHOKNAGAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "NAMSAI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BANGLORE RURAL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "AMBALA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "JAIPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MANSA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "DAMAN",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "CHANDRAPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PATHANAMTHITTA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "KAMLE",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "LONGDING",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "CHARAIDEO",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "WARDHA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "DHEMAJI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KOHIMA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "MOKOKCHUNG",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "LONGLENG",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KIPHIRE",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "LOHIT",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "J. BHUPALPALLY",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "BISWANATH",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MAJULI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "HOJAI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SOUTH SALMARA MANCACHAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "REWA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "WEST KARBI ANGLONG",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SHAHADRA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SOUTH EAST DELHI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "CHHOTA UDEPUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "CHARKI DADRI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "NAVSARI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "DADAR & NAGAR HAVELI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "LOWER DIBANG VALLEY",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KOLAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KARGIL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "DUNGARPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "NIWARI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "JIRBAM",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KAMJONG",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "NONEY",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PHERZAWL",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "TENGNOUPAL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KANGPOKPI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "JALORE",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SABAR KANTHA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "KAKCHING",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SOUTH WEST KHASI HILLS",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "SOUTH WEST GARO HILLS",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "NORTH GARO HILLS",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KARAIKAL",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "YANAM",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "FAZILKA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "ARAVALLI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "PATHANKOT",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "CHENGALPATTU",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "KALLAKKURICHI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "NARMADA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "RAMPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PRAYAGRAJ",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "GONDA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "CHITRAKOOT",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "NORTH DELHI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "NEW DELHI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SAS NAGAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "RANIPPETTAI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "TENKASI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "TIRUPPATTAR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "NARAYANPET",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "GOMATI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "KHOWAI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "LEH",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SEPAHIJALA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "DIU",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "NIRMAL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "B. KOTHAGUDEM",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KAMAREDDY",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "UDAIPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "HANUMANGARH",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "BHILWARA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "THIRUVALLUR",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "RAJNANDGAON",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "HISAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MAHARAJGANJ",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SONBHADRA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MAU",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "RUPNAGAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PATIALA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "UDHAM SINGH NAGAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "ROHTAK",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PURBI SINGBHUMI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "PANNA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "GADCHIROLI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "CHIKBALLAPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "UNOKOTI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "HAPUR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SAMBHAL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SHAMLI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "ALIPURDUAR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "JHARGRAM",
+        "colorCode": "3"
+    },
+    {
+        "imdDistrict": "KALIMPONG",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SORENG",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "PAKYONG",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "ALLURI SITHARAMA RAJU",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "ANAKAPALLI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "ANNAMAYYA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "BAPATLA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "ELURU",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "KAKINADA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "KONASEEMA",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "NANDYAL",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "NTR",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PALNADU",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "PARVATHIPURAMMANYAM",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "SRISATHYASAI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "TIRUPATHI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "GAURELA PENDRA MARWAHI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "HNAHTHIAL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "SAITUAL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "KHAWZAWL",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "LAWNGTLAI2",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "VIJAYANAGARA",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "MAYILADUTHURAI",
+        "colorCode": "2"
+    },
+    {
+        "imdDistrict": "BAJALI",
+        "colorCode": "1"
+    },
+    {
+        "imdDistrict": "TAMULPUR",
+        "colorCode": "1"
+    }
+]

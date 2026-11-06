@@ -1,0 +1,130 @@
+{
+  "name": "Auzy-Keyword-Marker",
+  "fileName": "agent_module.py",
+  "fileUri": "file:///h%3A/projects/SIH/openAI-SDK%20code/weathergpt/WeatherGPT_UI-Server/agent_module.py",
+  "savedAt": "2026-11-05T09:56:23.544Z",
+  "tags": [
+    {
+      "id": "tag_1793870752815_obobh",
+      "word": "https://api.groq.com/openai/v1",
+      "title": "AI API ENDPOINT",
+      "range": {
+        "startLine": 54,
+        "startCharacter": 14,
+        "endLine": 54,
+        "endCharacter": 44
+      },
+      "category": "variable",
+      "variableSubType": "Default",
+      "defaultValues": [
+        "https://api.groq.com/openai/v1",
+        "https://integrate.api.nvidia.com/v1",
+        "https://generativelanguage.googleapis.com/v1beta/openai/"
+      ],
+      "description": ""
+    },
+    {
+      "id": "tag_1793870788958_ib568",
+      "word": "GROQ_API",
+      "title": "API KEY",
+      "range": {
+        "startLine": 55,
+        "startCharacter": 12,
+        "endLine": 55,
+        "endCharacter": 20
+      },
+      "category": "variable",
+      "variableSubType": "Default",
+      "defaultValues": [
+        "GROQ_API",
+        "NVIDIA_API",
+        "API_KEY"
+      ],
+      "description": ""
+    },
+    {
+      "id": "tag_1793871947519_wuyyp",
+      "word": "10",
+      "title": "MAX ROUND TOOL CALLING",
+      "range": {
+        "startLine": 258,
+        "startCharacter": 33,
+        "endLine": 258,
+        "endCharacter": 35
+      },
+      "category": "variable",
+      "variableSubType": "Input",
+      "description": "Inside the Harness"
+    },
+    {
+      "id": "tag_1793872000878_8a2mi",
+      "word": "10",
+      "title": "MAXIMUM ROUNDS OF TOOL CALLING",
+      "range": {
+        "startLine": 34,
+        "startCharacter": 15,
+        "endLine": 34,
+        "endCharacter": 17
+      },
+      "category": "variable",
+      "variableSubType": "Default",
+      "defaultValues": [
+        "5",
+        "8",
+        "10",
+        "15",
+        "20"
+      ],
+      "description": ""
+    },
+    {
+      "id": "tag_1793872511641_sx8d4",
+      "word": "MODEL=\"openai/gpt-oss-120b\"",
+      "title": "",
+      "range": {
+        "startLine": 58,
+        "startCharacter": 0,
+        "endLine": 58,
+        "endCharacter": 27
+      },
+      "category": "variable",
+      "variableSubType": "Default",
+      "defaultValues": [
+        "MODEL=\"openai/gpt-oss-120b\"",
+        "MODEL=\"z-ai/glm-5.3-flash\"",
+        "MODEL=\"gemini-3.8-flash\""
+      ],
+      "description": ""
+    },
+    {
+      "id": "tag_1793872545592_nkz42",
+      "word": "MODEL=\"openai/gpt-oss-120b\"",
+      "title": "AI MODEL",
+      "range": {
+        "startLine": 271,
+        "startCharacter": 16,
+        "endLine": 271,
+        "endCharacter": 43
+      },
+      "category": "variable",
+      "variableSubType": "Input",
+      "description": ""
+    }
+  ],
+  "wires": [
+    {
+      "id": "wire_1793872149132_lap63",
+      "sourceTagId": "tag_1793872000878_8a2mi",
+      "targetTagId": "tag_1793871947519_wuyyp",
+      "sourceFile": "agent_module.py",
+      "targetFile": "agent_module.py"
+    },
+    {
+      "id": "wire_1793872583533_gw2st",
+      "sourceTagId": "tag_1793872511641_sx8d4",
+      "targetTagId": "tag_1793872545592_nkz42",
+      "sourceFile": "agent_module.py",
+      "targetFile": "agent_module.py"
+    }
+  ]
+}

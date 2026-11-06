@@ -1,0 +1,21 @@
+WeatherGPT/
+├── app.py
+├── app/
+│   ├── __init__.py
+│   ├── agent.py
+│   ├── history.py
+│   ├── registry.py
+│   └── schemas.py
+├── tools/
+│   ├── __init__.py
+│   └── weather.py
+├── services/
+│   ├── __init__.py
+│   └── README.md
+├── tests/
+│   └── test_registry.py
+├── chat-history.json
+├── requirements.txt
+├── .env.example
+├── .gitignore
+└── README.md

@@ -1,0 +1,3845 @@
+[
+    {
+        "station_id": 43009,
+        "Latitude": null,
+        "Longitude": null,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 42727,
+        "Latitude": 23.716666666666665,
+        "Longitude": 92.75,
+        "city": "aizawl",
+        "village": null,
+        "district": "aizawl",
+        "state": "mizoram"
+    },
+    {
+        "station_id": 42343,
+        "Latitude": 26.45,
+        "Longitude": 74.61666666666666,
+        "city": null,
+        "village": null,
+        "district": "ajmer",
+        "state": "rajasthan"
+    },
+    {
+        "station_id": 42933,
+        "Latitude": 20.7,
+        "Longitude": 77.03333333333333,
+        "city": "akola",
+        "village": null,
+        "district": "akola",
+        "state": "maharashtra"
+    },
+    {
+        "station_id": 43058,
+        "Latitude": 18.016666666666666,
+        "Longitude": 72.01666666666667,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 42262,
+        "Latitude": 27.9,
+        "Longitude": 78.06666666666666,
+        "city": "aligarh",
+        "village": null,
+        "district": "aligarh",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 42394,
+        "Latitude": 26.483333333333334,
+        "Longitude": 89.51666666666667,
+        "city": "alipurduar",
+        "village": "birpara",
+        "district": "alipurduar",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 42255,
+        "Latitude": 27.5,
+        "Longitude": 76.58333333333333,
+        "city": "alwar",
+        "village": null,
+        "district": "alwar",
+        "state": "rajasthan"
+    },
+    {
+        "station_id": 43176,
+        "Latitude": 16.45,
+        "Longitude": 80.5,
+        "city": "andhra pradesh capital region development authority",
+        "village": "nirukonda",
+        "district": "guntur",
+        "state": "andhra pradesh"
+    },
+    {
+        "station_id": 42103,
+        "Latitude": 30.35,
+        "Longitude": 76.78333333333333,
+        "city": "ambala",
+        "village": null,
+        "district": "ambala",
+        "state": "haryana"
+    },
+    {
+        "station_id": 42693,
+        "Latitude": 23.166666666666668,
+        "Longitude": 83.25,
+        "city": null,
+        "village": null,
+        "district": "surguja",
+        "state": "chhattisgarh"
+    },
+    {
+        "station_id": 43311,
+        "Latitude": 11.116666666666667,
+        "Longitude": 72.71666666666667,
+        "city": null,
+        "village": "amini",
+        "district": "lakshadweep",
+        "state": "lakshadweep"
+    },
+    {
+        "station_id": 42937,
+        "Latitude": 20.933333333333334,
+        "Longitude": 77.78333333333333,
+        "city": "amravati",
+        "village": null,
+        "district": "amravati",
+        "state": "maharashtra"
+    },
+    {
+        "station_id": 42834,
+        "Latitude": 21.6,
+        "Longitude": 71.21666666666667,
+        "city": "amreli",
+        "village": null,
+        "district": "amreli",
+        "state": "gujarat"
+    },
+    {
+        "station_id": 42071,
+        "Latitude": 31.7,
+        "Longitude": 74.8,
+        "city": null,
+        "village": "raja sansi",
+        "district": "amritsar",
+        "state": "punjab"
+    },
+    {
+        "station_id": 43237,
+        "Latitude": 14.683333333333334,
+        "Longitude": 77.63333333333334,
+        "city": null,
+        "village": "bukkaraya samudram",
+        "district": "anantapuram",
+        "state": "andhra pradesh"
+    },
+    {
+        "station_id": 42969,
+        "Latitude": 20.833333333333332,
+        "Longitude": 85.08333333333333,
+        "city": "angul",
+        "village": null,
+        "district": "angul",
+        "state": "odisha"
+    },
+    {
+        "station_id": 43324,
+        "Latitude": 11.166666666666666,
+        "Longitude": null,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 43271,
+        "Latitude": 13.533333333333333,
+        "Longitude": 78.5,
+        "city": null,
+        "village": "kottapalle",
+        "district": "annamayya",
+        "state": "andhra pradesh"
+    },
+    {
+        "station_id": 42712,
+        "Latitude": 23.7,
+        "Longitude": 86.96666666666667,
+        "city": "asansol",
+        "village": null,
+        "district": "paschim bardhaman",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 43014,
+        "Latitude": 19.866666666666667,
+        "Longitude": 75.06666666666666,
+        "city": null,
+        "village": "fulshevra",
+        "district": "chhatrapati sambhajinagar",
+        "state": "maharashtra"
+    },
+    {
+        "station_id": 42381,
+        "Latitude": 26.05,
+        "Longitude": 83.21666666666667,
+        "city": "azamgarh",
+        "village": null,
+        "district": "azamgarh",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 43160,
+        "Latitude": 16.4,
+        "Longitude": 75.1,
+        "city": "mahalingapura",
+        "village": null,
+        "district": "bagalkote",
+        "state": "karnataka"
+    },
+    {
+        "station_id": 42714,
+        "Latitude": 22.983333333333334,
+        "Longitude": 88.36666666666666,
+        "city": "kolkata metropolitan area",
+        "village": "mogra",
+        "district": "hooghly",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 42273,
+        "Latitude": 27.55,
+        "Longitude": 81.58333333333333,
+        "city": null,
+        "village": null,
+        "district": "bahraich",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 42895,
+        "Latitude": 21.466666666666665,
+        "Longitude": 86.93333333333334,
+        "city": null,
+        "village": null,
+        "district": "baleshwar",
+        "state": "odisha"
+    },
+    {
+        "station_id": 43259,
+        "Latitude": 13.2,
+        "Longitude": 75.2,
+        "city": null,
+        "village": "kudremukha",
+        "district": "chikkamagaluru",
+        "state": "karnataka"
+    },
+    {
+        "station_id": 42384,
+        "Latitude": 25.866666666666667,
+        "Longitude": 84.11666666666666,
+        "city": null,
+        "village": "sukhpura",
+        "district": "ballia",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 42506,
+        "Latitude": 25.5,
+        "Longitude": 88.78333333333333,
+        "city": null,
+        "village": null,
+        "district": "dakshin dinajpur",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 42473,
+        "Latitude": 25.466666666666665,
+        "Longitude": 80.31666666666666,
+        "city": "banda",
+        "village": null,
+        "district": "banda",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 42045,
+        "Latitude": 33.416666666666664,
+        "Longitude": 75.18333333333334,
+        "city": "banihal",
+        "village": "channari",
+        "district": "ramban district",
+        "state": "jammu and kashmir"
+    },
+    {
+        "station_id": 42706,
+        "Latitude": 23.233333333333334,
+        "Longitude": 87.03333333333333,
+        "city": "bankura",
+        "village": null,
+        "district": "bankura",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 42346,
+        "Latitude": 26.4,
+        "Longitude": 75.36666666666666,
+        "city": null,
+        "village": "banjaron ka bas",
+        "district": "tonk",
+        "state": "rajasthan"
+    },
+    {
+        "station_id": 43220,
+        "Latitude": 15.9,
+        "Longitude": 80.46666666666667,
+        "city": "bapatla",
+        "village": null,
+        "district": "bapatla",
+        "state": "andhra pradesh"
+    },
+    {
+        "station_id": 42370,
+        "Latitude": 26.916666666666668,
+        "Longitude": 81.2,
+        "city": "barabanki",
+        "village": null,
+        "district": "barabanki",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 43069,
+        "Latitude": 18.15,
+        "Longitude": 74.5,
+        "city": null,
+        "village": "malegaon",
+        "district": "pune",
+        "state": "maharashtra"
+    },
+    {
+        "station_id": 42512,
+        "Latitude": 25.7,
+        "Longitude": 91.96666666666667,
+        "city": null,
+        "village": "barapani",
+        "district": "ri-bhoi",
+        "state": "meghalaya"
+    },
+    {
+        "station_id": 42189,
+        "Latitude": 28.383333333333333,
+        "Longitude": 79.41666666666667,
+        "city": "bareilly",
+        "village": null,
+        "district": "bareilly",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 42880,
+        "Latitude": 21.333333333333332,
+        "Longitude": 83.61666666666666,
+        "city": "bargarh",
+        "village": null,
+        "district": "bargarh",
+        "state": "odisha"
+    },
+    {
+        "station_id": 42894,
+        "Latitude": 21.916666666666668,
+        "Longitude": 86.73333333333333,
+        "city": null,
+        "village": null,
+        "district": "mayurbhanj",
+        "state": "odisha"
+    },
+    {
+        "station_id": 42435,
+        "Latitude": 25.75,
+        "Longitude": 71.38333333333334,
+        "city": "barmer",
+        "village": null,
+        "district": "barmer",
+        "state": "rajasthan"
+    },
+    {
+        "station_id": 42810,
+        "Latitude": 22.65,
+        "Longitude": 88.86666666666666,
+        "city": "basirhat",
+        "village": null,
+        "district": "north 24 parganas",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 42279,
+        "Latitude": 26.783333333333335,
+        "Longitude": 82.71666666666667,
+        "city": "basti",
+        "village": null,
+        "district": "basti",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 42043,
+        "Latitude": 33.11666666666667,
+        "Longitude": 75.31666666666666,
+        "city": "batote",
+        "village": "mogu",
+        "district": "ramban district",
+        "state": "jammu and kashmir"
+    },
+    {
+        "station_id": 43011,
+        "Latitude": null,
+        "Longitude": null,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 43198,
+        "Latitude": 15.5,
+        "Longitude": 74.3,
+        "city": null,
+        "village": "palada",
+        "district": "uttara kannada",
+        "state": "karnataka"
+    },
+    {
+        "station_id": 43295,
+        "Latitude": 12.966666666666667,
+        "Longitude": 77.58333333333333,
+        "city": "bengaluru",
+        "village": null,
+        "district": "bengaluru urban",
+        "state": "karnataka"
+    },
+    {
+        "station_id": 43296,
+        "Latitude": 12.5,
+        "Longitude": 78.3,
+        "city": null,
+        "village": "achamangalam",
+        "district": "krishnagiri",
+        "state": "tamil nadu"
+    },
+    {
+        "station_id": 43293,
+        "Latitude": 13.183333333333334,
+        "Longitude": 77.7,
+        "city": null,
+        "village": "mylanahalli",
+        "district": "bengaluru urban",
+        "state": "karnataka"
+    },
+    {
+        "station_id": 42603,
+        "Latitude": 24.133333333333333,
+        "Longitude": 88.26666666666667,
+        "city": "berhampore",
+        "village": null,
+        "district": "murshidabad",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 42860,
+        "Latitude": 21.866666666666667,
+        "Longitude": 77.93333333333334,
+        "city": null,
+        "village": "betul bazar",
+        "district": "betul",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 42048,
+        "Latitude": 32.96666666666667,
+        "Longitude": 75.71666666666667,
+        "city": null,
+        "village": "chinar mohalla",
+        "district": "doda",
+        "state": "jammu and kashmir"
+    },
+    {
+        "station_id": 43136,
+        "Latitude": 17.666666666666668,
+        "Longitude": 80.88333333333334,
+        "city": "bhadrachalam",
+        "village": null,
+        "district": "bhadradri kothagudem",
+        "state": "telangana"
+    },
+    {
+        "station_id": 42889,
+        "Latitude": 21.05,
+        "Longitude": 86.48333333333333,
+        "city": "bhadrak",
+        "village": null,
+        "district": "bhadrak",
+        "state": "odisha"
+    },
+    {
+        "station_id": 42498,
+        "Latitude": 25.233333333333334,
+        "Longitude": 86.96666666666667,
+        "city": "bhagalpur",
+        "village": null,
+        "district": "bhagalpur",
+        "state": "bihar"
+    },
+    {
+        "station_id": 42865,
+        "Latitude": 21.15,
+        "Longitude": 79.65,
+        "city": null,
+        "village": "ganeshpur",
+        "district": "bhandara",
+        "state": "maharashtra"
+    },
+    {
+        "station_id": 42838,
+        "Latitude": 21.75,
+        "Longitude": 72.2,
+        "city": "bhavnagar",
+        "village": null,
+        "district": "bhavnagar",
+        "state": "gujarat"
+    },
+    {
+        "station_id": 43042,
+        "Latitude": 19.916666666666668,
+        "Longitude": 83.15,
+        "city": "bhawanipatna",
+        "village": null,
+        "district": "kalahandi",
+        "state": "odisha"
+    },
+    {
+        "station_id": 42447,
+        "Latitude": 25.35,
+        "Longitude": 74.63333333333334,
+        "city": "bhilwara",
+        "village": null,
+        "district": "bhilwara",
+        "state": "rajasthan"
+    },
+    {
+        "station_id": 42350,
+        "Latitude": 28.833333333333332,
+        "Longitude": 76.16666666666667,
+        "city": null,
+        "village": "gujrani",
+        "district": "bhiwani",
+        "state": "haryana"
+    },
+    {
+        "station_id": 42667,
+        "Latitude": 23.283333333333335,
+        "Longitude": 77.31666666666666,
+        "city": "bhopal",
+        "village": null,
+        "district": "bhopal",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 42971,
+        "Latitude": 20.25,
+        "Longitude": 85.81666666666666,
+        "city": "bhubaneswar municipal corporation",
+        "village": null,
+        "district": "khordha",
+        "state": "odisha"
+    },
+    {
+        "station_id": 42634,
+        "Latitude": 23.25,
+        "Longitude": 69.8,
+        "city": null,
+        "village": "\u0ab2\u0ac7\u0ab0",
+        "district": "kutch",
+        "state": "gujarat"
+    },
+    {
+        "station_id": 42081,
+        "Latitude": 31.833333333333332,
+        "Longitude": 77.16666666666667,
+        "city": null,
+        "village": "jhihri",
+        "district": "mandi",
+        "state": "himachal pradesh"
+    },
+    {
+        "station_id": 43125,
+        "Latitude": 17.5,
+        "Longitude": 77.3,
+        "city": null,
+        "village": "khudavandapura",
+        "district": "kalaburagi",
+        "state": "karnataka"
+    },
+    {
+        "station_id": 43161,
+        "Latitude": 16.4,
+        "Longitude": 74.4,
+        "city": "nippani",
+        "village": null,
+        "district": "belagavi",
+        "state": "karnataka"
+    },
+    {
+        "station_id": 42165,
+        "Latitude": null,
+        "Longitude": 73.3,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 42782,
+        "Latitude": 22.1,
+        "Longitude": 82.16666666666667,
+        "city": "bilaspur",
+        "village": null,
+        "district": "bilaspur",
+        "state": "chhattisgarh"
+    },
+    {
+        "station_id": 42963,
+        "Latitude": 20.7,
+        "Longitude": 83.46666666666667,
+        "city": "bal\u0101ng\u012br",
+        "village": null,
+        "district": "balangir",
+        "state": "odisha"
+    },
+    {
+        "station_id": 42964,
+        "Latitude": 20.816666666666666,
+        "Longitude": 84.31666666666666,
+        "city": "boudh",
+        "village": null,
+        "district": "boudh",
+        "state": "odisha"
+    },
+    {
+        "station_id": 42946,
+        "Latitude": 20.6,
+        "Longitude": 79.85,
+        "city": "bramhapuri town",
+        "village": null,
+        "district": "chandrapur",
+        "state": "maharashtra"
+    },
+    {
+        "station_id": 42183,
+        "Latitude": 28.316666666666666,
+        "Longitude": 77.78333333333333,
+        "city": null,
+        "village": null,
+        "district": "bulandshahr",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 42931,
+        "Latitude": 20.533333333333335,
+        "Longitude": 76.23333333333333,
+        "city": null,
+        "village": "bhadola",
+        "district": "buldhana",
+        "state": "maharashtra"
+    },
+    {
+        "station_id": 42709,
+        "Latitude": 23.233333333333334,
+        "Longitude": 87.85,
+        "city": "bardhaman",
+        "village": null,
+        "district": "purba bardhaman",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 42812,
+        "Latitude": 22.3,
+        "Longitude": 88.65,
+        "city": "canning",
+        "village": null,
+        "district": "south 24 parganas",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 43367,
+        "Latitude": 9.15,
+        "Longitude": 92.81666666666666,
+        "city": null,
+        "village": null,
+        "district": "nicobar",
+        "state": "andaman and nicobar islands"
+    },
+    {
+        "station_id": 42795,
+        "Latitude": 22.866666666666667,
+        "Longitude": null,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 42973,
+        "Latitude": 20.766666666666666,
+        "Longitude": 86.68333333333334,
+        "city": null,
+        "village": "raj kanika",
+        "district": "kendrapara",
+        "state": "odisha"
+    },
+    {
+        "station_id": 42105,
+        "Latitude": 30.733333333333334,
+        "Longitude": 76.73333333333333,
+        "city": null,
+        "village": "badheri",
+        "district": "chandigarh",
+        "state": "chandigarh"
+    },
+    {
+        "station_id": 43029,
+        "Latitude": 19.966666666666665,
+        "Longitude": 79.28333333333333,
+        "city": "chandrapur",
+        "village": null,
+        "district": "chandrapur",
+        "state": "maharashtra"
+    },
+    {
+        "station_id": 42414,
+        "Latitude": 26.2,
+        "Longitude": 92.51666666666667,
+        "city": null,
+        "village": "chaparmukh",
+        "district": "nagaon",
+        "state": "assam"
+    },
+    {
+        "station_id": 42488,
+        "Latitude": 25.783333333333335,
+        "Longitude": 84.73333333333333,
+        "city": "chhapra",
+        "village": null,
+        "district": "saran",
+        "state": "bihar"
+    },
+    {
+        "station_id": 43048,
+        "Latitude": 19.35,
+        "Longitude": 84.96666666666667,
+        "city": "chhatrapur",
+        "village": null,
+        "district": "ganjam",
+        "state": "odisha"
+    },
+    {
+        "station_id": 43279,
+        "Latitude": 12.983333333333333,
+        "Longitude": 80.16666666666667,
+        "city": "chennai corporation",
+        "village": null,
+        "district": "chennai",
+        "state": "tamil nadu"
+    },
+    {
+        "station_id": 43278,
+        "Latitude": 13.066666666666666,
+        "Longitude": 80.23333333333333,
+        "city": "chennai corporation",
+        "village": null,
+        "district": "chennai",
+        "state": "tamil nadu"
+    },
+    {
+        "station_id": 42768,
+        "Latitude": 22.1,
+        "Longitude": null,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 43272,
+        "Latitude": 13.1,
+        "Longitude": null,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 43233,
+        "Latitude": 14.133333333333333,
+        "Longitude": 76.25,
+        "city": null,
+        "village": "chitrahalli",
+        "district": "chitradurga",
+        "state": "karnataka"
+    },
+    {
+        "station_id": 42546,
+        "Latitude": 24.883333333333333,
+        "Longitude": 74.63333333333334,
+        "city": "chittorgarh",
+        "village": null,
+        "district": "chittorgarh",
+        "state": "rajasthan"
+    },
+    {
+        "station_id": 42589,
+        "Latitude": 24.633333333333333,
+        "Longitude": 83.08333333333333,
+        "city": "churk",
+        "village": null,
+        "district": "sonbhadra",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 42170,
+        "Latitude": 28.25,
+        "Longitude": 74.91666666666667,
+        "city": null,
+        "village": "depalsar",
+        "district": "churu",
+        "state": "rajasthan"
+    },
+    {
+        "station_id": 43321,
+        "Latitude": 11.016666666666667,
+        "Longitude": 77.03333333333333,
+        "city": null,
+        "village": null,
+        "district": "coimbatore",
+        "state": "tamil nadu"
+    },
+    {
+        "station_id": 42900,
+        "Latitude": 21.766666666666666,
+        "Longitude": 87.73333333333333,
+        "city": "contai",
+        "village": null,
+        "district": "purba medinipur",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 42403,
+        "Latitude": 26.316666666666666,
+        "Longitude": 89.46666666666667,
+        "city": "koch bihar",
+        "village": null,
+        "district": "cooch behar",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 43318,
+        "Latitude": 11.35,
+        "Longitude": 76.8,
+        "city": "coonoor",
+        "village": null,
+        "district": "nilgiris",
+        "state": "tamil nadu"
+    },
+    {
+        "station_id": 43329,
+        "Latitude": 11.75,
+        "Longitude": 79.75,
+        "city": "cuddalore",
+        "village": null,
+        "district": "cuddalore",
+        "state": "tamil nadu"
+    },
+    {
+        "station_id": 42970,
+        "Latitude": 20.466666666666665,
+        "Longitude": 85.85,
+        "city": "cuttack",
+        "village": null,
+        "district": "cuttack",
+        "state": "odisha"
+    },
+    {
+        "station_id": 43194,
+        "Latitude": 15.366666666666667,
+        "Longitude": 73.81666666666666,
+        "city": "vasco",
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 43001,
+        "Latitude": 19.966666666666665,
+        "Longitude": 72.71666666666667,
+        "city": "dahanu",
+        "village": null,
+        "district": "palghar",
+        "state": "maharashtra"
+    },
+    {
+        "station_id": 42587,
+        "Latitude": 24.033333333333335,
+        "Longitude": 84.05,
+        "city": null,
+        "village": null,
+        "district": "palamu",
+        "state": "jharkhand"
+    },
+    {
+        "station_id": 42674,
+        "Latitude": 23.833333333333332,
+        "Longitude": 79.45,
+        "city": "damoh",
+        "village": null,
+        "district": "damoh",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 42391,
+        "Latitude": 26.166666666666668,
+        "Longitude": 85.9,
+        "city": "darbhanga",
+        "village": null,
+        "district": "darbhanga",
+        "state": "bihar"
+    },
+    {
+        "station_id": 43046,
+        "Latitude": 19.9,
+        "Longitude": 84.11666666666666,
+        "city": "daringbadi",
+        "village": null,
+        "district": "kandhamal",
+        "state": "odisha"
+    },
+    {
+        "station_id": 42295,
+        "Latitude": 27.05,
+        "Longitude": 88.26666666666667,
+        "city": "darjeeling",
+        "village": null,
+        "district": "darjeeling",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 42293,
+        "Latitude": 27.05,
+        "Longitude": 88.25,
+        "city": "darjeeling",
+        "village": null,
+        "district": "darjeeling",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 42460,
+        "Latitude": 25.65,
+        "Longitude": 78.5,
+        "city": "datia",
+        "village": null,
+        "district": "datia",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 43230,
+        "Latitude": 14.5,
+        "Longitude": 75.98333333333333,
+        "city": null,
+        "village": "kadajji",
+        "district": "davanagere",
+        "state": "karnataka"
+    },
+    {
+        "station_id": 42539,
+        "Latitude": 24.2,
+        "Longitude": 72.2,
+        "city": null,
+        "village": "dharpada",
+        "district": "banaskantha",
+        "state": "gujarat"
+    },
+    {
+        "station_id": 42111,
+        "Latitude": 30.316666666666666,
+        "Longitude": 78.03333333333333,
+        "city": "dehradun",
+        "village": null,
+        "district": "dehradun",
+        "state": "uttarakhand"
+    },
+    {
+        "station_id": 42588,
+        "Latitude": 24.916666666666668,
+        "Longitude": 84.18333333333334,
+        "city": "dehri",
+        "village": null,
+        "district": "rohtas",
+        "state": "bihar"
+    },
+    {
+        "station_id": 42890,
+        "Latitude": 21.533333333333335,
+        "Longitude": 84.73333333333333,
+        "city": "deogarh",
+        "village": null,
+        "district": "debagarh",
+        "state": "odisha"
+    },
+    {
+        "station_id": 42752,
+        "Latitude": 22.6,
+        "Longitude": 75.3,
+        "city": "dhar",
+        "village": null,
+        "district": "dhar",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 42107,
+        "Latitude": 30.9,
+        "Longitude": 77.01666666666667,
+        "city": "dharampur",
+        "village": null,
+        "district": "solan",
+        "state": "himachal pradesh"
+    },
+    {
+        "station_id": 42062,
+        "Latitude": 32.266666666666666,
+        "Longitude": 76.38333333333334,
+        "city": "dharamshala",
+        "village": null,
+        "district": "kangra",
+        "state": "himachal pradesh"
+    },
+    {
+        "station_id": 43301,
+        "Latitude": 12.133333333333333,
+        "Longitude": 78.03333333333333,
+        "city": null,
+        "village": null,
+        "district": "dharmapuri",
+        "state": "tamil nadu"
+    },
+    {
+        "station_id": 43200,
+        "Latitude": 15.483333333333333,
+        "Longitude": 74.98333333333333,
+        "city": "dharwad",
+        "village": null,
+        "district": "dharwad",
+        "state": "karnataka"
+    },
+    {
+        "station_id": 42962,
+        "Latitude": 20.65,
+        "Longitude": 85.56666666666666,
+        "city": null,
+        "village": "banamaliprasad",
+        "district": "dhenkanal",
+        "state": "odisha"
+    },
+    {
+        "station_id": 42404,
+        "Latitude": 26.016666666666666,
+        "Longitude": 89.98333333333333,
+        "city": "dhubri",
+        "village": null,
+        "district": "dhubri",
+        "state": "assam"
+    },
+    {
+        "station_id": 42811,
+        "Latitude": 22.183333333333334,
+        "Longitude": 88.18333333333334,
+        "city": "diamond harbour",
+        "village": null,
+        "district": "south 24 parganas",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 42901,
+        "Latitude": 21.616666666666667,
+        "Longitude": 87.5,
+        "city": "digha",
+        "village": null,
+        "district": "purba medinipur",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 42622,
+        "Latitude": 25.866666666666667,
+        "Longitude": 93.76666666666667,
+        "city": "chumukedima",
+        "village": null,
+        "district": "ch\u00fcmoukedima",
+        "state": "nagaland"
+    },
+    {
+        "station_id": 42914,
+        "Latitude": 20.7,
+        "Longitude": 70.91666666666667,
+        "city": null,
+        "village": "nagoa",
+        "district": "diu",
+        "state": "dadra and nagar haveli and daman and diu"
+    },
+    {
+        "station_id": 42876,
+        "Latitude": 21.183333333333334,
+        "Longitude": 81.28333333333333,
+        "city": "durg",
+        "village": null,
+        "district": "durg",
+        "state": "chhattisgarh"
+    },
+    {
+        "station_id": 42731,
+        "Latitude": 22.233333333333334,
+        "Longitude": 68.95,
+        "city": "devbhumi dwarka",
+        "village": null,
+        "district": "devbhumi dwaraka",
+        "state": "gujarat"
+    },
+    {
+        "station_id": 43338,
+        "Latitude": 11.483333333333333,
+        "Longitude": 77.76666666666667,
+        "city": null,
+        "village": null,
+        "district": "salem",
+        "state": "tamil nadu"
+    },
+    {
+        "station_id": 42364,
+        "Latitude": 26.783333333333335,
+        "Longitude": null,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 42267,
+        "Latitude": 27.366666666666667,
+        "Longitude": 79.6,
+        "city": "farrukhabad",
+        "village": null,
+        "district": "farrukhabad",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 42471,
+        "Latitude": 25.916666666666668,
+        "Longitude": 80.8,
+        "city": "fatehpur",
+        "village": null,
+        "district": "fatehpur",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 42395,
+        "Latitude": 26.3,
+        "Longitude": 87.26666666666667,
+        "city": "forbesganj",
+        "village": null,
+        "district": "araria district",
+        "state": "bihar"
+    },
+    {
+        "station_id": 42372,
+        "Latitude": 26.25,
+        "Longitude": 81.36666666666666,
+        "city": null,
+        "village": null,
+        "district": "amethi",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 43201,
+        "Latitude": 15.2,
+        "Longitude": 75.2,
+        "city": null,
+        "village": "betadur",
+        "district": "dharwad",
+        "state": "karnataka"
+    },
+    {
+        "station_id": 42947,
+        "Latitude": null,
+        "Longitude": null,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 42654,
+        "Latitude": 23.233333333333334,
+        "Longitude": 72.71666666666667,
+        "city": "mota chiloda",
+        "village": null,
+        "district": "gandhinagar",
+        "state": "gujarat"
+    },
+    {
+        "station_id": 42299,
+        "Latitude": 27.333333333333332,
+        "Longitude": 88.6,
+        "city": "gangtok",
+        "village": null,
+        "district": "gangtok",
+        "state": "sikkim"
+    },
+    {
+        "station_id": 43181,
+        "Latitude": 16.533333333333335,
+        "Longitude": 80.8,
+        "city": null,
+        "village": "buddavaram",
+        "district": "krishna",
+        "state": "andhra pradesh"
+    },
+    {
+        "station_id": 42591,
+        "Latitude": 24.75,
+        "Longitude": 84.95,
+        "city": "gaya",
+        "village": null,
+        "district": "gaya",
+        "state": "bihar"
+    },
+    {
+        "station_id": 42482,
+        "Latitude": 25.55,
+        "Longitude": 83.53333333333333,
+        "city": "ghazipur",
+        "village": null,
+        "district": "ghazipur",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 42407,
+        "Latitude": 26.183333333333334,
+        "Longitude": 90.63333333333334,
+        "city": "goalpara",
+        "village": null,
+        "district": "goalpara",
+        "state": "assam"
+    },
+    {
+        "station_id": 42420,
+        "Latitude": 26.516666666666666,
+        "Longitude": 93.98333333333333,
+        "city": "golaghat",
+        "village": null,
+        "district": "golaghat",
+        "state": "assam"
+    },
+    {
+        "station_id": 42871,
+        "Latitude": 21.516666666666666,
+        "Longitude": 80.28333333333333,
+        "city": null,
+        "village": "birsi",
+        "district": "gondiya",
+        "state": "maharashtra"
+    },
+    {
+        "station_id": 43049,
+        "Latitude": 19.25,
+        "Longitude": 84.9,
+        "city": "gopalpur",
+        "village": null,
+        "district": "ganjam",
+        "state": "odisha"
+    },
+    {
+        "station_id": 42379,
+        "Latitude": 26.733333333333334,
+        "Longitude": 83.41666666666667,
+        "city": "gorakhpur",
+        "village": null,
+        "district": "gorakhpur",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 43121,
+        "Latitude": 17.2,
+        "Longitude": 76.5,
+        "city": null,
+        "village": "tellura",
+        "district": "kalaburagi",
+        "state": "karnataka"
+    },
+    {
+        "station_id": 42026,
+        "Latitude": 34.05,
+        "Longitude": 74.4,
+        "city": null,
+        "village": "gulmarg",
+        "district": "baramulla",
+        "state": "jammu and kashmir"
+    },
+    {
+        "station_id": 42559,
+        "Latitude": 24.65,
+        "Longitude": 77.31666666666666,
+        "city": "guna",
+        "village": null,
+        "district": "guna",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 42178,
+        "Latitude": null,
+        "Longitude": null,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 42410,
+        "Latitude": 26.1,
+        "Longitude": 91.58333333333333,
+        "city": null,
+        "village": null,
+        "district": "kamrup metropolitan",
+        "state": "assam"
+    },
+    {
+        "station_id": 42361,
+        "Latitude": 26.233333333333334,
+        "Longitude": 78.25,
+        "city": "gwalior",
+        "village": null,
+        "district": "gwalior",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 42806,
+        "Latitude": 22.066666666666666,
+        "Longitude": 88.13333333333334,
+        "city": "durgachak",
+        "village": null,
+        "district": "purba medinipur",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 42522,
+        "Latitude": 25.166666666666668,
+        "Longitude": 93.01666666666667,
+        "city": "haflong",
+        "village": null,
+        "district": "dima hasao",
+        "state": "assam"
+    },
+    {
+        "station_id": 42469,
+        "Latitude": 25.95,
+        "Longitude": 80.15,
+        "city": "hamirpur",
+        "village": null,
+        "district": null,
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 43087,
+        "Latitude": 18.016666666666666,
+        "Longitude": 79.56666666666666,
+        "city": "hanamkonda",
+        "village": null,
+        "district": "hanumakonda",
+        "state": "telangana"
+    },
+    {
+        "station_id": 42271,
+        "Latitude": 27.383333333333333,
+        "Longitude": 80.11666666666666,
+        "city": "hardoi",
+        "village": null,
+        "district": "hardoi",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 43109,
+        "Latitude": 17.8,
+        "Longitude": 73.15,
+        "city": "dapoli",
+        "village": null,
+        "district": "ratnagiri",
+        "state": "maharashtra"
+    },
+    {
+        "station_id": 43263,
+        "Latitude": 12.5,
+        "Longitude": 76.2,
+        "city": null,
+        "village": "nadappanahalli",
+        "district": "mysuru district",
+        "state": "karnataka"
+    },
+    {
+        "station_id": 43227,
+        "Latitude": 14.783333333333333,
+        "Longitude": 75.35,
+        "city": null,
+        "village": "devi hosur",
+        "district": "haveri",
+        "state": "karnataka"
+    },
+    {
+        "station_id": 42881,
+        "Latitude": 21.516666666666666,
+        "Longitude": 83.88333333333334,
+        "city": "burla",
+        "village": null,
+        "district": "sambalpur",
+        "state": "odisha"
+    },
+    {
+        "station_id": 42131,
+        "Latitude": 29.166666666666668,
+        "Longitude": 75.73333333333333,
+        "city": "hisar",
+        "village": null,
+        "district": "hisar",
+        "state": "haryana"
+    },
+    {
+        "station_id": 43226,
+        "Latitude": 14.283333333333333,
+        "Longitude": 74.45,
+        "city": "honnavar",
+        "village": null,
+        "district": "uttara kannada",
+        "state": "karnataka"
+    },
+    {
+        "station_id": 42763,
+        "Latitude": 22.766666666666666,
+        "Longitude": 77.76666666666667,
+        "city": "narmadapuram",
+        "village": null,
+        "district": "narmadapuram",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 42805,
+        "Latitude": 22.583333333333332,
+        "Longitude": 86.26666666666667,
+        "city": null,
+        "village": null,
+        "district": "east singhbhum",
+        "state": "jharkhand"
+    },
+    {
+        "station_id": 43364,
+        "Latitude": 10.6,
+        "Longitude": 92.51666666666667,
+        "city": null,
+        "village": "kwate-tu-kwage",
+        "district": "south andaman",
+        "state": "andaman and nicobar islands"
+    },
+    {
+        "station_id": 43128,
+        "Latitude": 17.466666666666665,
+        "Longitude": 78.46666666666667,
+        "city": null,
+        "village": null,
+        "district": "hyderabad",
+        "state": "telangana"
+    },
+    {
+        "station_id": 42623,
+        "Latitude": 24.766666666666666,
+        "Longitude": 93.9,
+        "city": null,
+        "village": null,
+        "district": "imphal west",
+        "state": "manipur"
+    },
+    {
+        "station_id": 42754,
+        "Latitude": 22.716666666666665,
+        "Longitude": 75.8,
+        "city": "indore",
+        "village": null,
+        "district": "indore",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 42308,
+        "Latitude": 26.966666666666665,
+        "Longitude": 93.63333333333334,
+        "city": null,
+        "village": null,
+        "district": "biswanath",
+        "state": "assam"
+    },
+    {
+        "station_id": 42675,
+        "Latitude": 23.2,
+        "Longitude": 79.95,
+        "city": "jabalpur",
+        "village": null,
+        "district": "jabalpur",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 42979,
+        "Latitude": 20.25,
+        "Longitude": 86.16666666666667,
+        "city": "jagatsinghpur",
+        "village": null,
+        "district": "jagatsinghapur",
+        "state": "odisha"
+    },
+    {
+        "station_id": 43041,
+        "Latitude": 19.083333333333332,
+        "Longitude": 82.03333333333333,
+        "city": "jagdalpur",
+        "village": null,
+        "district": "bastar",
+        "state": "chhattisgarh"
+    },
+    {
+        "station_id": 42348,
+        "Latitude": 26.816666666666666,
+        "Longitude": 75.8,
+        "city": "jaipur municipal corporation",
+        "village": null,
+        "district": "jaipur",
+        "state": "rajasthan"
+    },
+    {
+        "station_id": 42328,
+        "Latitude": 26.9,
+        "Longitude": 70.91666666666667,
+        "city": "jaisalmer",
+        "village": null,
+        "district": "jaisalmer",
+        "state": "rajasthan"
+    },
+    {
+        "station_id": 42975,
+        "Latitude": 20.833333333333332,
+        "Longitude": 86.31666666666666,
+        "city": "jajpur",
+        "village": null,
+        "district": "jajpur",
+        "state": "odisha"
+    },
+    {
+        "station_id": 42851,
+        "Latitude": null,
+        "Longitude": 75.56666666666666,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 43012,
+        "Latitude": null,
+        "Longitude": null,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 42399,
+        "Latitude": 26.533333333333335,
+        "Longitude": 88.7,
+        "city": "jalpaiguri",
+        "village": null,
+        "district": "jalpaiguri",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 42056,
+        "Latitude": 32.666666666666664,
+        "Longitude": 74.83333333333333,
+        "city": "jammu",
+        "village": null,
+        "district": "jammu district",
+        "state": "jammu and kashmir"
+    },
+    {
+        "station_id": 42798,
+        "Latitude": 22.8,
+        "Longitude": 86.16666666666667,
+        "city": "jamshedpur",
+        "village": null,
+        "district": "east singhbhum",
+        "state": "jharkhand"
+    },
+    {
+        "station_id": 42799,
+        "Latitude": 22.8,
+        "Longitude": 86.18333333333334,
+        "city": "jamshedpur",
+        "village": null,
+        "district": "east singhbhum",
+        "state": "jharkhand"
+    },
+    {
+        "station_id": 42441,
+        "Latitude": 25.083333333333332,
+        "Longitude": 73.08333333333333,
+        "city": null,
+        "village": "badla",
+        "district": "sirohi",
+        "state": "rajasthan"
+    },
+    {
+        "station_id": 43071,
+        "Latitude": null,
+        "Longitude": null,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 42463,
+        "Latitude": 25.45,
+        "Longitude": 78.6,
+        "city": "jhansi",
+        "village": null,
+        "district": "jhansi",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 42898,
+        "Latitude": 22.433333333333334,
+        "Longitude": null,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 42886,
+        "Latitude": 21.916666666666668,
+        "Longitude": 84.03333333333333,
+        "city": null,
+        "village": null,
+        "district": "jharsuguda",
+        "state": "odisha"
+    },
+    {
+        "station_id": 42339,
+        "Latitude": 26.3,
+        "Longitude": 73.01666666666667,
+        "city": "jodhpur",
+        "village": null,
+        "district": "jodhpur",
+        "state": "rajasthan"
+    },
+    {
+        "station_id": 42141,
+        "Latitude": 30.183333333333334,
+        "Longitude": 78.16666666666667,
+        "city": null,
+        "village": "bhaniyawala",
+        "district": "dehradun",
+        "state": "uttarakhand"
+    },
+    {
+        "station_id": 42423,
+        "Latitude": 26.733333333333334,
+        "Longitude": 94.16666666666667,
+        "city": null,
+        "village": "rowriya",
+        "district": "jorhat",
+        "state": "assam"
+    },
+    {
+        "station_id": 43241,
+        "Latitude": 14.333333333333334,
+        "Longitude": 78.83333333333333,
+        "city": null,
+        "village": null,
+        "district": "ysr kadapa",
+        "state": "andhra pradesh"
+    },
+    {
+        "station_id": 42618,
+        "Latitude": 24.316666666666666,
+        "Longitude": null,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 43189,
+        "Latitude": 16.95,
+        "Longitude": 82.23333333333333,
+        "city": "kakinada",
+        "village": null,
+        "district": "kakinada",
+        "state": "andhra pradesh"
+    },
+    {
+        "station_id": 42296,
+        "Latitude": 27.066666666666666,
+        "Longitude": 88.46666666666667,
+        "city": "kalimpong",
+        "village": null,
+        "district": "kalimpong",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 43105,
+        "Latitude": 18.333333333333332,
+        "Longitude": 84.13333333333334,
+        "city": null,
+        "village": "kalingapatnam",
+        "district": "srikakulam",
+        "state": "andhra pradesh"
+    },
+    {
+        "station_id": 42066,
+        "Latitude": 31.533333333333335,
+        "Longitude": 78.25,
+        "city": null,
+        "village": "kalpa",
+        "district": "kinnaur",
+        "state": "himachal pradesh"
+    },
+    {
+        "station_id": 42638,
+        "Latitude": 23.083333333333332,
+        "Longitude": 70.06666666666666,
+        "city": null,
+        "village": "\u0aae\u0ac7\u0a98\u0aaa\u0ab0 (\u0a95\u0ac1\u0a82\u0aad\u0abe\u0ab0\u0aa1\u0ac0)",
+        "district": "kutch",
+        "state": "gujarat"
+    },
+    {
+        "station_id": 42076,
+        "Latitude": 32.15,
+        "Longitude": 76.25,
+        "city": null,
+        "village": "bedi",
+        "district": "kangra",
+        "state": "himachal pradesh"
+    },
+    {
+        "station_id": 43315,
+        "Latitude": 11.866666666666667,
+        "Longitude": 75.36666666666666,
+        "city": "kannur",
+        "village": null,
+        "district": "kannur",
+        "state": "kerala"
+    },
+    {
+        "station_id": 43253,
+        "Latitude": 11.9,
+        "Longitude": 75.53333333333333,
+        "city": null,
+        "village": "vengad",
+        "district": "kannur",
+        "state": "kerala"
+    },
+    {
+        "station_id": 42367,
+        "Latitude": 26.483333333333334,
+        "Longitude": 80.28333333333333,
+        "city": "kanpur",
+        "village": null,
+        "district": "kanpur nagar",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 43377,
+        "Latitude": 8.066666666666666,
+        "Longitude": 77.53333333333333,
+        "city": null,
+        "village": "kovalam",
+        "district": "kanniyakumari",
+        "state": "tamil nadu"
+    },
+    {
+        "station_id": 43346,
+        "Latitude": 10.9,
+        "Longitude": 79.83333333333333,
+        "city": null,
+        "village": "akkaraivattam",
+        "district": "karaikal",
+        "state": "puducherry"
+    },
+    {
+        "station_id": 42137,
+        "Latitude": 29.7,
+        "Longitude": 76.95,
+        "city": "karnal",
+        "village": null,
+        "district": "karnal",
+        "state": "haryana"
+    },
+    {
+        "station_id": 43342,
+        "Latitude": 10.95,
+        "Longitude": 78.08333333333333,
+        "city": "karur",
+        "village": null,
+        "district": "karur",
+        "state": "tamil nadu"
+    },
+    {
+        "station_id": 43225,
+        "Latitude": 14.8,
+        "Longitude": 74.11666666666666,
+        "city": "karwar",
+        "village": null,
+        "district": "uttara kannada",
+        "state": "karnataka"
+    },
+    {
+        "station_id": 42060,
+        "Latitude": 32.333333333333336,
+        "Longitude": 75.5,
+        "city": "kathua",
+        "village": null,
+        "district": "kathua district",
+        "state": "jammu and kashmir"
+    },
+    {
+        "station_id": 42054,
+        "Latitude": 32.96666666666667,
+        "Longitude": 74.91666666666667,
+        "city": "katra",
+        "village": null,
+        "district": "reasi district",
+        "state": "jammu and kashmir"
+    },
+    {
+        "station_id": 43243,
+        "Latitude": 14.9,
+        "Longitude": 79.98333333333333,
+        "city": "kavali",
+        "village": null,
+        "district": "sri potti sriramulu nellore",
+        "state": "andhra pradesh"
+    },
+    {
+        "station_id": 42980,
+        "Latitude": 20.516666666666666,
+        "Longitude": 86.43333333333334,
+        "city": null,
+        "village": null,
+        "district": "kendrapara",
+        "state": "odisha"
+    },
+    {
+        "station_id": 42891,
+        "Latitude": 21.633333333333333,
+        "Longitude": 86.61666666666666,
+        "city": null,
+        "village": null,
+        "district": "mayurbhanj",
+        "state": "odisha"
+    },
+    {
+        "station_id": 42832,
+        "Latitude": 21.183333333333334,
+        "Longitude": 70.18333333333334,
+        "city": null,
+        "village": null,
+        "district": "junagadh",
+        "state": "gujarat"
+    },
+    {
+        "station_id": 42567,
+        "Latitude": 24.983333333333334,
+        "Longitude": 79.91666666666667,
+        "city": null,
+        "village": "maniya",
+        "district": "chhatarpur",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 43137,
+        "Latitude": 17.25,
+        "Longitude": 80.15,
+        "city": "khammam",
+        "village": null,
+        "district": "khammam",
+        "state": "telangana"
+    },
+    {
+        "station_id": 42855,
+        "Latitude": 21.833333333333332,
+        "Longitude": 76.36666666666666,
+        "city": "khandwa",
+        "village": null,
+        "district": "khandwa",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 42849,
+        "Latitude": 21.816666666666666,
+        "Longitude": 75.61666666666666,
+        "city": "khargone",
+        "village": null,
+        "district": "khargone",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 42192,
+        "Latitude": 28.916666666666668,
+        "Longitude": 79.96666666666667,
+        "city": "khat\u012bma",
+        "village": null,
+        "district": "udham singh nagar",
+        "state": "uttarakhand"
+    },
+    {
+        "station_id": 42978,
+        "Latitude": 20.15,
+        "Longitude": 85.6,
+        "city": null,
+        "village": "daleiput",
+        "district": "khordha",
+        "state": "odisha"
+    },
+    {
+        "station_id": 43336,
+        "Latitude": 10.15,
+        "Longitude": 76.4,
+        "city": null,
+        "village": "kanjoor",
+        "district": "ernakulam",
+        "state": "kerala"
+    },
+    {
+        "station_id": 43353,
+        "Latitude": 9.933333333333334,
+        "Longitude": 76.26666666666667,
+        "city": "kochi",
+        "village": null,
+        "district": "ernakulam",
+        "state": "kerala"
+    },
+    {
+        "station_id": 43339,
+        "Latitude": 10.216666666666667,
+        "Longitude": 77.45,
+        "city": null,
+        "village": null,
+        "district": "dindigul",
+        "state": "tamil nadu"
+    },
+    {
+        "station_id": 42527,
+        "Latitude": 25.633333333333333,
+        "Longitude": 94.16666666666667,
+        "city": "kohima",
+        "village": null,
+        "district": "kohima",
+        "state": "nagaland"
+    },
+    {
+        "station_id": 42046,
+        "Latitude": 33.583333333333336,
+        "Longitude": 75.5,
+        "city": null,
+        "village": null,
+        "district": "anantnag",
+        "state": "jammu and kashmir"
+    },
+    {
+        "station_id": 43157,
+        "Latitude": 16.7,
+        "Longitude": 74.23333333333333,
+        "city": "kolhapur",
+        "village": null,
+        "district": "kolhapur",
+        "state": "maharashtra"
+    },
+    {
+        "station_id": 42807,
+        "Latitude": 22.533333333333335,
+        "Longitude": 88.31666666666666,
+        "city": "kolkata",
+        "village": null,
+        "district": "kolkata",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 42809,
+        "Latitude": 22.65,
+        "Longitude": 88.43333333333334,
+        "city": "dum dum",
+        "village": null,
+        "district": "north 24 parganas",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 42041,
+        "Latitude": 33.88333333333333,
+        "Longitude": 74.91666666666667,
+        "city": null,
+        "village": null,
+        "district": "pulwama",
+        "state": "jammu and kashmir"
+    },
+    {
+        "station_id": 43228,
+        "Latitude": 15.2,
+        "Longitude": null,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 43097,
+        "Latitude": 18.8,
+        "Longitude": 82.7,
+        "city": null,
+        "village": "chhapar",
+        "district": "koraput",
+        "state": "odisha"
+    },
+    {
+        "station_id": 42452,
+        "Latitude": 25.15,
+        "Longitude": 75.85,
+        "city": "kota",
+        "village": null,
+        "district": "kota",
+        "state": "rajasthan"
+    },
+    {
+        "station_id": 43355,
+        "Latitude": 9.566666666666666,
+        "Longitude": 76.56666666666666,
+        "city": "puthuppally",
+        "village": null,
+        "district": "kottayam",
+        "state": "kerala"
+    },
+    {
+        "station_id": 43358,
+        "Latitude": 9.55,
+        "Longitude": 78.08333333333333,
+        "city": null,
+        "village": "gopalapuram",
+        "district": "virudhunagar",
+        "state": "tamil nadu"
+    },
+    {
+        "station_id": 43314,
+        "Latitude": 11.25,
+        "Longitude": 75.76666666666667,
+        "city": "kozhikode",
+        "village": null,
+        "district": "kozhikode",
+        "state": "kerala"
+    },
+    {
+        "station_id": 43320,
+        "Latitude": 11.133333333333333,
+        "Longitude": 75.93333333333334,
+        "city": null,
+        "village": "kumminiparamb",
+        "district": "malappuram",
+        "state": "kerala"
+    },
+    {
+        "station_id": 42711,
+        "Latitude": 23.4,
+        "Longitude": 88.51666666666667,
+        "city": "krishnanagar",
+        "village": null,
+        "district": "nadia",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 42031,
+        "Latitude": 34.833333333333336,
+        "Longitude": 74.43333333333334,
+        "city": null,
+        "village": "\u062a\u062d\u0635\u06cc\u0644 \u0634\u0627\u0631\u062f\u06c1",
+        "district": "\u0645\u0638\u0641\u0631\u0622\u0628\u0627\u062f \u0688\u0648\u06cc\u0698\u0646",
+        "state": "\u0622\u0632\u0627\u062f \u06a9\u0634\u0645\u06cc\u0631"
+    },
+    {
+        "station_id": 43213,
+        "Latitude": 15.8,
+        "Longitude": 78.06666666666666,
+        "city": "kurnool",
+        "village": null,
+        "district": "kurnool",
+        "state": "andhra pradesh"
+    },
+    {
+        "station_id": 42270,
+        "Latitude": 27.933333333333334,
+        "Longitude": 80.78333333333333,
+        "city": "lakhimpur",
+        "village": null,
+        "district": "lakhimpur kheri",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 42034,
+        "Latitude": 34.166666666666664,
+        "Longitude": 77.56666666666666,
+        "city": "leh",
+        "village": null,
+        "district": "leh district",
+        "state": "ladakh"
+    },
+    {
+        "station_id": 42726,
+        "Latitude": 23.833333333333332,
+        "Longitude": 92.61666666666666,
+        "city": "lengpui",
+        "village": null,
+        "district": "mamit",
+        "state": "mizoram"
+    },
+    {
+        "station_id": 43310,
+        "Latitude": 12.366666666666667,
+        "Longitude": 92.91666666666667,
+        "city": null,
+        "village": null,
+        "district": "north and middle andaman",
+        "state": "andaman and nicobar islands"
+    },
+    {
+        "station_id": 42369,
+        "Latitude": 26.766666666666666,
+        "Longitude": 80.88333333333334,
+        "city": null,
+        "village": "vikram nagar",
+        "district": "lucknow",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 42099,
+        "Latitude": 30.85,
+        "Longitude": 75.95,
+        "city": null,
+        "village": "dhandari khurd",
+        "district": "ludhiana",
+        "state": "punjab"
+    },
+    {
+        "station_id": 42100,
+        "Latitude": 30.9,
+        "Longitude": 75.8,
+        "city": null,
+        "village": "sunet",
+        "district": "ludhiana",
+        "state": "punjab"
+    },
+    {
+        "station_id": 42523,
+        "Latitude": 25.75,
+        "Longitude": 93.18333333333334,
+        "city": "lumding",
+        "village": null,
+        "district": "hojai",
+        "state": "assam"
+    },
+    {
+        "station_id": 43185,
+        "Latitude": 16.2,
+        "Longitude": 81.15,
+        "city": "machilipatnam",
+        "village": null,
+        "district": "krishna",
+        "state": "andhra pradesh"
+    },
+    {
+        "station_id": 43359,
+        "Latitude": 9.916666666666666,
+        "Longitude": 78.11666666666666,
+        "city": "madurai",
+        "village": null,
+        "district": "madurai",
+        "state": "tamil nadu"
+    },
+    {
+        "station_id": 43360,
+        "Latitude": 9.833333333333334,
+        "Longitude": 78.08333333333333,
+        "city": "madurai",
+        "village": null,
+        "district": "madurai",
+        "state": "tamil nadu"
+    },
+    {
+        "station_id": 43111,
+        "Latitude": 17.933333333333334,
+        "Longitude": 73.66666666666667,
+        "city": null,
+        "village": null,
+        "district": "satara",
+        "state": "maharashtra"
+    },
+    {
+        "station_id": 43168,
+        "Latitude": 16.75,
+        "Longitude": null,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 42837,
+        "Latitude": 21.083333333333332,
+        "Longitude": 71.78333333333333,
+        "city": "mahuva",
+        "village": null,
+        "district": "bhavnagar",
+        "state": "gujarat"
+    },
+    {
+        "station_id": 42715,
+        "Latitude": null,
+        "Longitude": 80.7,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 42503,
+        "Latitude": 24.983333333333334,
+        "Longitude": 88.13333333333334,
+        "city": "malda",
+        "village": null,
+        "district": "maldah",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 42925,
+        "Latitude": null,
+        "Longitude": null,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 43091,
+        "Latitude": 18.35,
+        "Longitude": 81.88333333333334,
+        "city": null,
+        "village": "himansupalli",
+        "district": "malkangiri",
+        "state": "odisha"
+    },
+    {
+        "station_id": 42065,
+        "Latitude": 32.266666666666666,
+        "Longitude": 77.16666666666667,
+        "city": null,
+        "village": "goshal",
+        "district": "kullu",
+        "state": "himachal pradesh"
+    },
+    {
+        "station_id": 42078,
+        "Latitude": 31.716666666666665,
+        "Longitude": 76.96666666666667,
+        "city": "mandi",
+        "village": "dhagohl",
+        "district": "mandi",
+        "state": "himachal pradesh"
+    },
+    {
+        "station_id": 42776,
+        "Latitude": 22.583333333333332,
+        "Longitude": 80.36666666666666,
+        "city": "mandla",
+        "village": null,
+        "district": "mandla",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 43284,
+        "Latitude": 12.95,
+        "Longitude": 74.88333333333334,
+        "city": null,
+        "village": "kenjar",
+        "district": "dakshina kannada",
+        "state": "karnataka"
+    },
+    {
+        "station_id": 43222,
+        "Latitude": 12.883333333333333,
+        "Longitude": 74.86666666666666,
+        "city": "mangaluru",
+        "village": null,
+        "district": "dakshina kannada",
+        "state": "karnataka"
+    },
+    {
+        "station_id": 43060,
+        "Latitude": null,
+        "Longitude": 73.43333333333334,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 42514,
+        "Latitude": 25.3,
+        "Longitude": 91.58333333333333,
+        "city": "mawsynram",
+        "village": null,
+        "district": "east khasi hills",
+        "state": "meghalaya"
+    },
+    {
+        "station_id": 43309,
+        "Latitude": 12.916666666666666,
+        "Longitude": 92.88333333333334,
+        "city": "mayabunder",
+        "village": null,
+        "district": "north and middle andaman",
+        "state": "andaman and nicobar islands"
+    },
+    {
+        "station_id": 42413,
+        "Latitude": 26.75,
+        "Longitude": 92.35,
+        "city": null,
+        "village": null,
+        "district": "sonitpur",
+        "state": "assam"
+    },
+    {
+        "station_id": 43083,
+        "Latitude": 18.05,
+        "Longitude": 78.26666666666667,
+        "city": "medak",
+        "village": null,
+        "district": "medak",
+        "state": "telangana"
+    },
+    {
+        "station_id": 42803,
+        "Latitude": 22.416666666666668,
+        "Longitude": 87.31666666666666,
+        "city": "medinipur",
+        "village": null,
+        "district": "paschim medinipur",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 42139,
+        "Latitude": 28.966666666666665,
+        "Longitude": 77.73333333333333,
+        "city": "meerut",
+        "village": null,
+        "district": "meerut",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 43369,
+        "Latitude": 8.266666666666667,
+        "Longitude": 73.05,
+        "city": "minicoy",
+        "village": null,
+        "district": "lakshadweep",
+        "state": "lakshadweep"
+    },
+    {
+        "station_id": 42314,
+        "Latitude": 27.483333333333334,
+        "Longitude": 95.01666666666667,
+        "city": "dibrugarh",
+        "village": "l\u0101ho\u0101l p\u0101tra",
+        "district": "dibrugarh",
+        "state": "assam"
+    },
+    {
+        "station_id": 42187,
+        "Latitude": 28.95,
+        "Longitude": 78.81666666666666,
+        "city": null,
+        "village": "laluwala mustakam",
+        "district": "moradabad",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 43196,
+        "Latitude": 15.416666666666666,
+        "Longitude": 73.78333333333333,
+        "city": "vasco",
+        "village": null,
+        "district": "south goa",
+        "state": "goa"
+    },
+    {
+        "station_id": 42383,
+        "Latitude": 26.666666666666668,
+        "Longitude": 84.91666666666667,
+        "city": "motihari",
+        "village": null,
+        "district": "east champaran",
+        "state": "bihar"
+    },
+    {
+        "station_id": 42147,
+        "Latitude": 29.466666666666665,
+        "Longitude": 79.65,
+        "city": null,
+        "village": "surmani",
+        "district": "nainital",
+        "state": "uttarakhand"
+    },
+    {
+        "station_id": 43057,
+        "Latitude": 18.9,
+        "Longitude": 72.81666666666666,
+        "city": null,
+        "village": null,
+        "district": "mumbai city district",
+        "state": "maharashtra"
+    },
+    {
+        "station_id": 43003,
+        "Latitude": 19.1,
+        "Longitude": 72.85,
+        "city": "mumbai",
+        "village": null,
+        "district": "mumbai suburban district",
+        "state": "maharashtra"
+    },
+    {
+        "station_id": 42112,
+        "Latitude": 30.45,
+        "Longitude": 78.08333333333333,
+        "city": null,
+        "village": "barlowganj",
+        "district": "dehradun",
+        "state": "uttarakhand"
+    },
+    {
+        "station_id": 42138,
+        "Latitude": 29.45,
+        "Longitude": 77.68333333333334,
+        "city": "muzaffarnagar",
+        "village": null,
+        "district": "muzaffarnagar",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 42387,
+        "Latitude": 26.116666666666667,
+        "Longitude": 85.4,
+        "city": "muzaffarpur",
+        "village": null,
+        "district": "muzaffarpur",
+        "state": "bihar"
+    },
+    {
+        "station_id": 43291,
+        "Latitude": 12.1,
+        "Longitude": 76.4,
+        "city": null,
+        "village": "madapura",
+        "district": "mysuru district",
+        "state": "karnataka"
+    },
+    {
+        "station_id": 43037,
+        "Latitude": 19.25,
+        "Longitude": 82.53333333333333,
+        "city": "nabarangapur",
+        "village": null,
+        "district": "nabarangapur",
+        "state": "odisha"
+    },
+    {
+        "station_id": 43347,
+        "Latitude": 10.8,
+        "Longitude": 79.83333333333333,
+        "city": "nagore",
+        "village": "thethi",
+        "district": "nagapattinam",
+        "state": "tamil nadu"
+    },
+    {
+        "station_id": 42867,
+        "Latitude": 21.083333333333332,
+        "Longitude": 79.05,
+        "city": "nagpur city",
+        "village": null,
+        "district": "nagpur",
+        "state": "maharashtra"
+    },
+    {
+        "station_id": 42104,
+        "Latitude": 30.4,
+        "Longitude": 76.73333333333333,
+        "city": null,
+        "village": "nizampur",
+        "district": "ambala",
+        "state": "haryana"
+    },
+    {
+        "station_id": 42143,
+        "Latitude": 29.6,
+        "Longitude": 78.33333333333333,
+        "city": "najibabad",
+        "village": null,
+        "district": "bijnor",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 43133,
+        "Latitude": null,
+        "Longitude": 79.25,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 42631,
+        "Latitude": 23.25,
+        "Longitude": 68.85,
+        "city": null,
+        "village": "\u0ab8\u0ac1\u0aa6\u0aa7\u0abe\u0ab0\u0acb \u0aae\u0acb\u0a9f\u0ac0",
+        "district": "kutch",
+        "state": "gujarat"
+    },
+    {
+        "station_id": 43382,
+        "Latitude": 8.033333333333333,
+        "Longitude": 93.53333333333333,
+        "city": null,
+        "village": "kamorta",
+        "district": "nicobar",
+        "state": "andaman and nicobar islands"
+    },
+    {
+        "station_id": 43021,
+        "Latitude": null,
+        "Longitude": null,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 43182,
+        "Latitude": 16.783333333333335,
+        "Longitude": 80.28333333333333,
+        "city": "nandigama",
+        "village": null,
+        "district": "ntr",
+        "state": "andhra pradesh"
+    },
+    {
+        "station_id": 42846,
+        "Latitude": 21.566666666666666,
+        "Longitude": 74.36666666666666,
+        "city": null,
+        "village": "vaijali",
+        "district": "nandurbar",
+        "state": "maharashtra"
+    },
+    {
+        "station_id": 43212,
+        "Latitude": 15.466666666666667,
+        "Longitude": 78.33333333333333,
+        "city": null,
+        "village": "konededu",
+        "district": "nandyal",
+        "state": "andhra pradesh"
+    },
+    {
+        "station_id": 42177,
+        "Latitude": null,
+        "Longitude": 76.08333333333333,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 43187,
+        "Latitude": 16.433333333333334,
+        "Longitude": 81.7,
+        "city": "narasapuram",
+        "village": null,
+        "district": "west godavari",
+        "state": "andhra pradesh"
+    },
+    {
+        "station_id": 42770,
+        "Latitude": 22.95,
+        "Longitude": 79.18333333333334,
+        "city": "narsinghpur",
+        "village": null,
+        "district": "narsinghpur",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 42921,
+        "Latitude": 20.033333333333335,
+        "Longitude": 73.78333333333333,
+        "city": "nashik",
+        "village": null,
+        "district": "nashik",
+        "state": "maharashtra"
+    },
+    {
+        "station_id": 42974,
+        "Latitude": 20.116666666666667,
+        "Longitude": 85.1,
+        "city": null,
+        "village": "sarankul",
+        "district": "nayagarh",
+        "state": "odisha"
+    },
+    {
+        "station_id": 43245,
+        "Latitude": 14.45,
+        "Longitude": 79.98333333333333,
+        "city": "nellore",
+        "village": null,
+        "district": "sri potti sriramulu nellore",
+        "state": "andhra pradesh"
+    },
+    {
+        "station_id": 42180,
+        "Latitude": 28.483333333333334,
+        "Longitude": 77.13333333333334,
+        "city": "delhi",
+        "village": null,
+        "district": "south delhi",
+        "state": "delhi"
+    },
+    {
+        "station_id": 42181,
+        "Latitude": 28.566666666666666,
+        "Longitude": 77.11666666666666,
+        "city": "delhi cantonment",
+        "village": null,
+        "district": "new delhi",
+        "state": "delhi"
+    },
+    {
+        "station_id": 42184,
+        "Latitude": 28.683333333333334,
+        "Longitude": 77.21666666666667,
+        "city": "delhi",
+        "village": null,
+        "district": "north delhi",
+        "state": "delhi"
+    },
+    {
+        "station_id": 42182,
+        "Latitude": 28.583333333333332,
+        "Longitude": 77.2,
+        "city": "new delhi",
+        "village": null,
+        "district": "new delhi",
+        "state": "delhi"
+    },
+    {
+        "station_id": 42639,
+        "Latitude": 23.15,
+        "Longitude": 70.21666666666667,
+        "city": null,
+        "village": "\u0ab5\u0ab0\u0ab8\u0aa8\u0abe",
+        "district": "kutch",
+        "state": "gujarat"
+    },
+    {
+        "station_id": 43081,
+        "Latitude": 18.666666666666668,
+        "Longitude": 78.1,
+        "city": "nizamabad",
+        "village": null,
+        "district": "nizamabad",
+        "state": "telangana"
+    },
+    {
+        "station_id": 42309,
+        "Latitude": 27.233333333333334,
+        "Longitude": 94.11666666666666,
+        "city": null,
+        "village": null,
+        "district": "lakhimpur",
+        "state": "assam"
+    },
+    {
+        "station_id": 42467,
+        "Latitude": 25.066666666666666,
+        "Longitude": 79.45,
+        "city": "nowgaon",
+        "village": null,
+        "district": "chhatarpur",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 42956,
+        "Latitude": 20.8,
+        "Longitude": 82.53333333333333,
+        "city": "nuapada",
+        "village": null,
+        "district": "nuapada",
+        "state": "odisha"
+    },
+    {
+        "station_id": 42730,
+        "Latitude": 22.483333333333334,
+        "Longitude": 69.11666666666666,
+        "city": null,
+        "village": "aramda",
+        "district": "devbhumi dwaraka",
+        "state": "gujarat"
+    },
+    {
+        "station_id": 43221,
+        "Latitude": 15.566666666666666,
+        "Longitude": 80.05,
+        "city": null,
+        "village": "edugundlapadu",
+        "district": "prakasam",
+        "state": "andhra pradesh"
+    },
+    {
+        "station_id": 42468,
+        "Latitude": 25.983333333333334,
+        "Longitude": 79.45,
+        "city": "orai",
+        "village": null,
+        "district": "jalaun",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 43075,
+        "Latitude": null,
+        "Longitude": null,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 42767,
+        "Latitude": 22.466666666666665,
+        "Longitude": 78.43333333333334,
+        "city": "pachmarhi",
+        "village": null,
+        "district": "narmadapuram",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 42028,
+        "Latitude": 34.03333333333333,
+        "Longitude": 75.33333333333333,
+        "city": "pahalgam",
+        "village": "rainspat",
+        "district": "anantnag",
+        "state": "jammu and kashmir"
+    },
+    {
+        "station_id": 42298,
+        "Latitude": 27.216666666666665,
+        "Longitude": 88.58333333333333,
+        "city": "pakyong",
+        "village": null,
+        "district": "pakyong",
+        "state": "sikkim"
+    },
+    {
+        "station_id": 43335,
+        "Latitude": 10.833333333333334,
+        "Longitude": 76.66666666666667,
+        "city": null,
+        "village": "malampuzha",
+        "district": "palakkad",
+        "state": "kerala"
+    },
+    {
+        "station_id": 43376,
+        "Latitude": 8.733333333333333,
+        "Longitude": 77.81666666666666,
+        "city": null,
+        "village": "uthamapandiankulam",
+        "district": "tirunelveli",
+        "state": "tamil nadu"
+    },
+    {
+        "station_id": 43363,
+        "Latitude": 9.266666666666667,
+        "Longitude": 79.2,
+        "city": null,
+        "village": "pamban",
+        "district": "ramanathapuram",
+        "state": "tamil nadu"
+    },
+    {
+        "station_id": 43192,
+        "Latitude": 15.483333333333333,
+        "Longitude": 73.81666666666666,
+        "city": "panaji",
+        "village": null,
+        "district": "north goa",
+        "state": "goa"
+    },
+    {
+        "station_id": 42148,
+        "Latitude": 29.033333333333335,
+        "Longitude": 79.46666666666667,
+        "city": "pantnagar",
+        "village": null,
+        "district": "udham singh nagar",
+        "state": "uttarakhand"
+    },
+    {
+        "station_id": 42976,
+        "Latitude": 20.25,
+        "Longitude": 86.65,
+        "city": null,
+        "village": "abhyachandpur",
+        "district": "jagatsinghapur",
+        "state": "odisha"
+    },
+    {
+        "station_id": 43102,
+        "Latitude": 18.766666666666666,
+        "Longitude": 84.08333333333333,
+        "city": null,
+        "village": "gopalapuram",
+        "district": "gajapati",
+        "state": "odisha"
+    },
+    {
+        "station_id": 43207,
+        "Latitude": 11.5,
+        "Longitude": 79.76666666666667,
+        "city": "parangipettai",
+        "village": null,
+        "district": "cuddalore",
+        "state": "tamil nadu"
+    },
+    {
+        "station_id": 43017,
+        "Latitude": 19.45,
+        "Longitude": 76.45,
+        "city": "selu",
+        "village": null,
+        "district": "parbhani",
+        "state": "maharashtra"
+    },
+    {
+        "station_id": 42220,
+        "Latitude": 28.1,
+        "Longitude": 95.38333333333334,
+        "city": "mebo",
+        "village": null,
+        "district": "east siang",
+        "state": "arunachal pradesh"
+    },
+    {
+        "station_id": 42101,
+        "Latitude": 30.35,
+        "Longitude": 76.43333333333334,
+        "city": "patiala",
+        "village": null,
+        "district": "patiala",
+        "state": "punjab"
+    },
+    {
+        "station_id": 42492,
+        "Latitude": 25.6,
+        "Longitude": 85.16666666666667,
+        "city": "patna",
+        "village": null,
+        "district": "patna",
+        "state": "bihar"
+    },
+    {
+        "station_id": 42779,
+        "Latitude": 22.766666666666666,
+        "Longitude": 81.9,
+        "city": null,
+        "village": "gaurella",
+        "district": "gaurela-pendra-marwahi",
+        "state": "chhattisgarh"
+    },
+    {
+        "station_id": 43356,
+        "Latitude": null,
+        "Longitude": 77.13333333333334,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 42237,
+        "Latitude": 27.133333333333333,
+        "Longitude": 72.36666666666666,
+        "city": "phalodi",
+        "village": null,
+        "district": "phalodi",
+        "state": "rajasthan"
+    },
+    {
+        "station_id": 42966,
+        "Latitude": 20.466666666666665,
+        "Longitude": 84.21666666666667,
+        "city": null,
+        "village": "sartagura",
+        "district": "kandhamal",
+        "state": "odisha"
+    },
+    {
+        "station_id": 42174,
+        "Latitude": 28.333333333333332,
+        "Longitude": 75.58333333333333,
+        "city": "pilani",
+        "village": null,
+        "district": "jhunjhunu",
+        "state": "rajasthan"
+    },
+    {
+        "station_id": 42830,
+        "Latitude": 21.65,
+        "Longitude": 69.66666666666667,
+        "city": null,
+        "village": null,
+        "district": "porbandar",
+        "state": "gujarat"
+    },
+    {
+        "station_id": 43333,
+        "Latitude": 11.65,
+        "Longitude": 92.73333333333333,
+        "city": "port blair",
+        "village": null,
+        "district": "south andaman",
+        "state": "andaman and nicobar islands"
+    },
+    {
+        "station_id": 42474,
+        "Latitude": 25.3,
+        "Longitude": 81.8,
+        "city": null,
+        "village": null,
+        "district": "prayagraj",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 43331,
+        "Latitude": 11.95,
+        "Longitude": 79.8,
+        "city": "ozhukarai",
+        "village": null,
+        "district": "puducherry",
+        "state": "puducherry"
+    },
+    {
+        "station_id": 43354,
+        "Latitude": null,
+        "Longitude": 76.93333333333334,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 43063,
+        "Latitude": 18.533333333333335,
+        "Longitude": 73.85,
+        "city": "pune",
+        "village": null,
+        "district": "pune",
+        "state": "maharashtra"
+    },
+    {
+        "station_id": 43067,
+        "Latitude": null,
+        "Longitude": null,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 43053,
+        "Latitude": 19.783333333333335,
+        "Longitude": 85.81666666666666,
+        "city": "puri",
+        "village": null,
+        "district": "puri",
+        "state": "odisha"
+    },
+    {
+        "station_id": 42500,
+        "Latitude": 25.233333333333334,
+        "Longitude": 87.45,
+        "city": null,
+        "village": "pucc\u0101pul",
+        "district": "bhagalpur",
+        "state": "bihar"
+    },
+    {
+        "station_id": 42705,
+        "Latitude": 23.5,
+        "Longitude": 86.36666666666666,
+        "city": null,
+        "village": null,
+        "district": "purulia",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 42044,
+        "Latitude": 33.583333333333336,
+        "Longitude": 75.08333333333333,
+        "city": null,
+        "village": "beri gam",
+        "district": "kulgam",
+        "state": "jammu and kashmir"
+    },
+    {
+        "station_id": 43169,
+        "Latitude": 16.1,
+        "Longitude": 77.33333333333333,
+        "city": null,
+        "village": "nagalapura",
+        "district": "raichur",
+        "state": "karnataka"
+    },
+    {
+        "station_id": 42502,
+        "Latitude": 25.616666666666667,
+        "Longitude": 88.13333333333334,
+        "city": "raiganj",
+        "village": null,
+        "district": "uttar dinajpur",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 42874,
+        "Latitude": 21.233333333333334,
+        "Longitude": 81.65,
+        "city": "raipur",
+        "village": null,
+        "district": "raipur",
+        "state": "chhattisgarh"
+    },
+    {
+        "station_id": 42872,
+        "Latitude": 21.233333333333334,
+        "Longitude": 81.65,
+        "city": "raipur",
+        "village": null,
+        "district": "raipur",
+        "state": "chhattisgarh"
+    },
+    {
+        "station_id": 42672,
+        "Latitude": 23.316666666666666,
+        "Longitude": 77.83333333333333,
+        "city": "raisen",
+        "village": null,
+        "district": "raisen",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 42557,
+        "Latitude": null,
+        "Longitude": 76.71666666666667,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 42737,
+        "Latitude": 22.3,
+        "Longitude": 70.78333333333333,
+        "city": "rajkot",
+        "village": null,
+        "district": "rajkot",
+        "state": "gujarat"
+    },
+    {
+        "station_id": 42948,
+        "Latitude": 21.1,
+        "Longitude": 81.03333333333333,
+        "city": "rajnandgaon",
+        "village": null,
+        "district": "rajnandgaon",
+        "state": "chhattisgarh"
+    },
+    {
+        "station_id": 43086,
+        "Latitude": 18.766666666666666,
+        "Longitude": 79.43333333333334,
+        "city": "ramagundam",
+        "village": null,
+        "district": "peddapalli",
+        "state": "telangana"
+    },
+    {
+        "station_id": 42701,
+        "Latitude": 23.316666666666666,
+        "Longitude": 85.31666666666666,
+        "city": null,
+        "village": null,
+        "district": "ranchi",
+        "state": "jharkhand"
+    },
+    {
+        "station_id": 42408,
+        "Latitude": 26.433333333333334,
+        "Longitude": 91.61666666666666,
+        "city": "rangia",
+        "village": null,
+        "district": "kamrup",
+        "state": "assam"
+    },
+    {
+        "station_id": 42661,
+        "Latitude": 23.316666666666666,
+        "Longitude": 75.05,
+        "city": "ratlam",
+        "village": null,
+        "district": "ratlam",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 43110,
+        "Latitude": 16.983333333333334,
+        "Longitude": 73.31666666666666,
+        "city": "ratnagiri",
+        "village": null,
+        "district": "ratnagiri",
+        "state": "maharashtra"
+    },
+    {
+        "station_id": 43045,
+        "Latitude": 19.15,
+        "Longitude": 83.4,
+        "city": null,
+        "village": "gurutiguda",
+        "district": "rayagada",
+        "state": "odisha"
+    },
+    {
+        "station_id": 43177,
+        "Latitude": 16.55,
+        "Longitude": 78.55,
+        "city": null,
+        "village": "yellikal",
+        "district": "nagarkurnool",
+        "state": "telangana"
+    },
+    {
+        "station_id": 42574,
+        "Latitude": 24.533333333333335,
+        "Longitude": 81.3,
+        "city": "rewa",
+        "village": null,
+        "district": "rewa",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 42176,
+        "Latitude": 28.833333333333332,
+        "Longitude": 76.58333333333333,
+        "city": null,
+        "village": "maina",
+        "district": "rohtak",
+        "state": "haryana"
+    },
+    {
+        "station_id": 42793,
+        "Latitude": 22.25,
+        "Longitude": 84.8,
+        "city": null,
+        "village": null,
+        "district": "sundargarh",
+        "state": "odisha"
+    },
+    {
+        "station_id": 42499,
+        "Latitude": 25.233333333333334,
+        "Longitude": 87.06666666666666,
+        "city": "sabour",
+        "village": null,
+        "district": "bhagalpur",
+        "state": "bihar"
+    },
+    {
+        "station_id": 42671,
+        "Latitude": 23.85,
+        "Longitude": 78.75,
+        "city": "sagar",
+        "village": null,
+        "district": "sagar",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 42903,
+        "Latitude": 21.65,
+        "Longitude": 88.03333333333333,
+        "city": null,
+        "village": null,
+        "district": "south 24 parganas",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 43325,
+        "Latitude": 11.65,
+        "Longitude": 78.15,
+        "city": "salem",
+        "village": null,
+        "district": "salem",
+        "state": "tamil nadu"
+    },
+    {
+        "station_id": 42816,
+        "Latitude": 22.566666666666666,
+        "Longitude": 88.43333333333334,
+        "city": "bidhannagar",
+        "village": null,
+        "district": "north 24 parganas",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 42883,
+        "Latitude": 21.45,
+        "Longitude": 83.96666666666667,
+        "city": null,
+        "village": null,
+        "district": "sambalpur",
+        "state": "odisha"
+    },
+    {
+        "station_id": 43158,
+        "Latitude": 16.85,
+        "Longitude": 74.93333333333334,
+        "city": null,
+        "village": "jakkaratti",
+        "district": "belagavi",
+        "state": "karnataka"
+    },
+    {
+        "station_id": 43113,
+        "Latitude": 17.683333333333334,
+        "Longitude": 74.01666666666667,
+        "city": "satara",
+        "village": null,
+        "district": "satara",
+        "state": "maharashtra"
+    },
+    {
+        "station_id": 42571,
+        "Latitude": 24.566666666666666,
+        "Longitude": 80.83333333333333,
+        "city": "satna",
+        "village": null,
+        "district": "satna",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 42771,
+        "Latitude": 22.083333333333332,
+        "Longitude": 79.55,
+        "city": "seoni",
+        "village": null,
+        "district": "seoni",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 42266,
+        "Latitude": 27.866666666666667,
+        "Longitude": 79.93333333333334,
+        "city": "shahjahanpur",
+        "village": null,
+        "district": "shahjahanpur",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 42456,
+        "Latitude": null,
+        "Longitude": null,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 42516,
+        "Latitude": 25.566666666666666,
+        "Longitude": 91.86666666666666,
+        "city": "shillong",
+        "village": null,
+        "district": "east khasi hills",
+        "state": "meghalaya"
+    },
+    {
+        "station_id": 42083,
+        "Latitude": 31.1,
+        "Longitude": 77.16666666666667,
+        "city": "shimla (urban)",
+        "village": null,
+        "district": "shimla",
+        "state": "himachal pradesh"
+    },
+    {
+        "station_id": 42084,
+        "Latitude": 31.066666666666666,
+        "Longitude": 77.06666666666666,
+        "city": null,
+        "village": "sairi",
+        "district": "solan",
+        "state": "himachal pradesh"
+    },
+    {
+        "station_id": 43258,
+        "Latitude": 13.933333333333334,
+        "Longitude": 75.63333333333334,
+        "city": null,
+        "village": "yalavatti tanda",
+        "district": "shimoga",
+        "state": "karnataka"
+    },
+    {
+        "station_id": 42459,
+        "Latitude": 25.333333333333332,
+        "Longitude": 77.65,
+        "city": null,
+        "village": "sir",
+        "district": "shivpuri",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 42577,
+        "Latitude": 24.416666666666668,
+        "Longitude": 81.86666666666666,
+        "city": "sidhi",
+        "village": null,
+        "district": "sidhi",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 42249,
+        "Latitude": 27.616666666666667,
+        "Longitude": 75.13333333333334,
+        "city": "sikar",
+        "village": null,
+        "district": "sikar",
+        "state": "rajasthan"
+    },
+    {
+        "station_id": 42619,
+        "Latitude": 24.816666666666666,
+        "Longitude": 92.8,
+        "city": "silchar",
+        "village": null,
+        "district": "cachar",
+        "state": "assam"
+    },
+    {
+        "station_id": 42515,
+        "Latitude": 25.25,
+        "Longitude": 91.73333333333333,
+        "city": null,
+        "village": "nongthymmai",
+        "district": "east khasi hills",
+        "state": "meghalaya"
+    },
+    {
+        "station_id": 42106,
+        "Latitude": 30.833333333333332,
+        "Longitude": 77.13333333333334,
+        "city": null,
+        "village": null,
+        "district": "sirmaur",
+        "state": "himachal pradesh"
+    },
+    {
+        "station_id": 43117,
+        "Latitude": 17.666666666666668,
+        "Longitude": 75.9,
+        "city": "solapur",
+        "village": null,
+        "district": "solapur",
+        "state": "maharashtra"
+    },
+    {
+        "station_id": 42882,
+        "Latitude": 20.833333333333332,
+        "Longitude": 83.9,
+        "city": "subarnapur",
+        "village": null,
+        "district": "subarnapur",
+        "state": "odisha"
+    },
+    {
+        "station_id": 42123,
+        "Latitude": 29.916666666666668,
+        "Longitude": 73.91666666666667,
+        "city": "sri ganganagar",
+        "village": null,
+        "district": "sri ganganagar",
+        "state": "rajasthan"
+    },
+    {
+        "station_id": 42027,
+        "Latitude": 34.083333333333336,
+        "Longitude": 74.83333333333333,
+        "city": "srinagar",
+        "village": null,
+        "district": "srinagar",
+        "state": "jammu and kashmir"
+    },
+    {
+        "station_id": 42708,
+        "Latitude": 23.666666666666668,
+        "Longitude": 87.65,
+        "city": null,
+        "village": "sriniketan",
+        "district": "birbhum",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 42377,
+        "Latitude": 26.283333333333335,
+        "Longitude": 82.06666666666666,
+        "city": "sultanpur",
+        "village": null,
+        "district": "sultanpur",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 42792,
+        "Latitude": 22.116666666666667,
+        "Longitude": 84.03333333333333,
+        "city": "sundargarh",
+        "village": null,
+        "district": "sundargarh",
+        "state": "odisha"
+    },
+    {
+        "station_id": 42079,
+        "Latitude": 31.533333333333335,
+        "Longitude": 76.9,
+        "city": null,
+        "village": "ropa",
+        "district": "mandi",
+        "state": "himachal pradesh"
+    },
+    {
+        "station_id": 42393,
+        "Latitude": 26.133333333333333,
+        "Longitude": 86.58333333333333,
+        "city": "supaul",
+        "village": null,
+        "district": "supaul",
+        "state": "bihar"
+    },
+    {
+        "station_id": 42840,
+        "Latitude": 21.1,
+        "Longitude": 72.73333333333333,
+        "city": "dumas",
+        "village": null,
+        "district": "surat",
+        "state": "gujarat"
+    },
+    {
+        "station_id": 42740,
+        "Latitude": 22.733333333333334,
+        "Longitude": 71.51666666666667,
+        "city": null,
+        "village": null,
+        "district": "surendranagar",
+        "state": "gujarat"
+    },
+    {
+        "station_id": 42710,
+        "Latitude": 23.883333333333333,
+        "Longitude": 87.53333333333333,
+        "city": "siuri",
+        "village": null,
+        "district": "birbhum",
+        "state": "west bengal"
+    },
+    {
+        "station_id": 43005,
+        "Latitude": 19.216666666666665,
+        "Longitude": null,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 42217,
+        "Latitude": 27.316666666666666,
+        "Longitude": 88.6,
+        "city": "gangtok",
+        "village": null,
+        "district": "gangtok",
+        "state": "sikkim"
+    },
+    {
+        "station_id": 42965,
+        "Latitude": 20.933333333333334,
+        "Longitude": 85.2,
+        "city": "talcher",
+        "village": null,
+        "district": "angul",
+        "state": "odisha"
+    },
+    {
+        "station_id": 42114,
+        "Latitude": 30.383333333333333,
+        "Longitude": 78.43333333333334,
+        "city": null,
+        "village": "kemsari",
+        "district": "tehri garhwal",
+        "state": "uttarakhand"
+    },
+    {
+        "station_id": 42415,
+        "Latitude": 26.616666666666667,
+        "Longitude": 92.78333333333333,
+        "city": "tezpur",
+        "village": null,
+        "district": "sonitpur",
+        "state": "assam"
+    },
+    {
+        "station_id": 43330,
+        "Latitude": 10.783333333333333,
+        "Longitude": 79.13333333333334,
+        "city": "thanjavur",
+        "village": null,
+        "district": "thanjavur",
+        "state": "tamil nadu"
+    },
+    {
+        "station_id": 43371,
+        "Latitude": 8.5,
+        "Longitude": 76.95,
+        "city": "thiruvananthapuram",
+        "village": null,
+        "district": "thiruvananthapuram",
+        "state": "kerala"
+    },
+    {
+        "station_id": 43372,
+        "Latitude": 8.466666666666667,
+        "Longitude": 76.95,
+        "city": "thiruvananthapuram",
+        "village": null,
+        "district": "thiruvananthapuram",
+        "state": "kerala"
+    },
+    {
+        "station_id": 43357,
+        "Latitude": 10.533333333333333,
+        "Longitude": 76.26666666666667,
+        "city": "thrissur",
+        "village": null,
+        "district": "thrissur",
+        "state": "kerala"
+    },
+    {
+        "station_id": 42562,
+        "Latitude": 24.766666666666666,
+        "Longitude": 78.83333333333333,
+        "city": null,
+        "village": "anantpura",
+        "district": "tikamgarh",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 42317,
+        "Latitude": 27.5,
+        "Longitude": 95.31666666666666,
+        "city": null,
+        "village": null,
+        "district": "tinsukia",
+        "state": "assam"
+    },
+    {
+        "station_id": 43344,
+        "Latitude": 10.75,
+        "Longitude": 78.7,
+        "city": "tiruchirappalli",
+        "village": null,
+        "district": "tiruchirappalli",
+        "state": "tamil nadu"
+    },
+    {
+        "station_id": 43275,
+        "Latitude": 13.666666666666666,
+        "Longitude": 79.58333333333333,
+        "city": null,
+        "village": "pathaveerapuram",
+        "district": "tirupati",
+        "state": "andhra pradesh"
+    },
+    {
+        "station_id": 43302,
+        "Latitude": 12.483333333333333,
+        "Longitude": 78.56666666666666,
+        "city": "tirupattur",
+        "village": null,
+        "district": "tirupattur",
+        "state": "tamil nadu"
+    },
+    {
+        "station_id": 43277,
+        "Latitude": 13.15,
+        "Longitude": 79.53333333333333,
+        "city": null,
+        "village": "kanchiguruvarajukandigai",
+        "district": "thiruvallur",
+        "state": "tamil nadu"
+    },
+    {
+        "station_id": 42961,
+        "Latitude": 20.283333333333335,
+        "Longitude": 83.15,
+        "city": "titlagarh",
+        "village": null,
+        "district": "balangir",
+        "state": "odisha"
+    },
+    {
+        "station_id": 43361,
+        "Latitude": 9.733333333333333,
+        "Longitude": 79.01666666666667,
+        "city": "thondi",
+        "village": null,
+        "district": "ramanathapuram",
+        "state": "tamil nadu"
+    },
+    {
+        "station_id": 43147,
+        "Latitude": 17.35,
+        "Longitude": 82.55,
+        "city": null,
+        "village": "keshavaram",
+        "district": "kakinada",
+        "state": "andhra pradesh"
+    },
+    {
+        "station_id": 43317,
+        "Latitude": 11.4,
+        "Longitude": 76.73333333333333,
+        "city": null,
+        "village": "buttercombai",
+        "district": "nilgiris",
+        "state": "tamil nadu"
+    },
+    {
+        "station_id": 42542,
+        "Latitude": 23.616666666666667,
+        "Longitude": 75.88333333333334,
+        "city": null,
+        "village": "sonchidi",
+        "district": "agar malwa",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 43076,
+        "Latitude": null,
+        "Longitude": null,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 42662,
+        "Latitude": 23.183333333333334,
+        "Longitude": 75.78333333333333,
+        "city": "ujjain",
+        "village": null,
+        "district": "ujjain",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 42679,
+        "Latitude": 23.533333333333335,
+        "Longitude": 80.88333333333334,
+        "city": null,
+        "village": null,
+        "district": "umaria",
+        "state": "madhya pradesh"
+    },
+    {
+        "station_id": 42077,
+        "Latitude": 31.466666666666665,
+        "Longitude": 76.26666666666667,
+        "city": "una",
+        "village": null,
+        "district": "una",
+        "state": "himachal pradesh"
+    },
+    {
+        "station_id": 42748,
+        "Latitude": 22.333333333333332,
+        "Longitude": 73.26666666666667,
+        "city": null,
+        "village": null,
+        "district": "vadodara",
+        "state": "gujarat"
+    },
+    {
+        "station_id": 42744,
+        "Latitude": 22.566666666666666,
+        "Longitude": 72.93333333333334,
+        "city": null,
+        "village": "lambhvel",
+        "district": "anand",
+        "state": "gujarat"
+    },
+    {
+        "station_id": 42283,
+        "Latitude": 27.433333333333334,
+        "Longitude": 83.91666666666667,
+        "city": null,
+        "village": "valmikinagar",
+        "district": "west champaran",
+        "state": "bihar"
+    },
+    {
+        "station_id": 43341,
+        "Latitude": 10.283333333333333,
+        "Longitude": null,
+        "city": null,
+        "village": null,
+        "district": null,
+        "state": null
+    },
+    {
+        "station_id": 42483,
+        "Latitude": 25.266666666666666,
+        "Longitude": 82.98333333333333,
+        "city": "varanasi",
+        "village": null,
+        "district": "varanasi",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 42479,
+        "Latitude": 25.433333333333334,
+        "Longitude": 82.85,
+        "city": null,
+        "village": null,
+        "district": "varanasi",
+        "state": "uttar pradesh"
+    },
+    {
+        "station_id": 43303,
+        "Latitude": 12.933333333333334,
+        "Longitude": 79.13333333333334,
+        "city": "vellore",
+        "village": null,
+        "district": "vellore",
+        "state": "tamil nadu"
+    },
+    {
+        "station_id": 42909,
+        "Latitude": 20.9,
+        "Longitude": 70.36666666666666,
+        "city": "veraval",
+        "village": null,
+        "district": "gir somnath",
+        "state": "gujarat"
+    },
+    {
+        "station_id": 43150,
+        "Latitude": 17.683333333333334,
+        "Longitude": 83.3,
+        "city": "visakhapatnam",
+        "village": null,
+        "district": "visakhapatnam",
+        "state": "andhra pradesh"
+    },
+    {
+        "station_id": 43149,
+        "Latitude": 17.716666666666665,
+        "Longitude": 83.23333333333333,
+        "city": "gopalapatnam",
+        "village": null,
+        "district": "visakhapatnam",
+        "state": "andhra pradesh"
+    },
+    {
+        "station_id": 42939,
+        "Latitude": 20.666666666666668,
+        "Longitude": 78.58333333333333,
+        "city": null,
+        "village": "kurzadi",
+        "district": "wardha",
+        "state": "maharashtra"
+    },
+    {
+        "station_id": 42935,
+        "Latitude": 20.116666666666667,
+        "Longitude": 77.13333333333334,
+        "city": "washim",
+        "village": null,
+        "district": "washim",
+        "state": "maharashtra"
+    },
+    {
+        "station_id": 42943,
+        "Latitude": 20.4,
+        "Longitude": 78.15,
+        "city": "yavatmal",
+        "village": null,
+        "district": "yavatmal",
+        "state": "maharashtra"
+    },
+    {
+        "station_id": 43340,
+        "Latitude": 11.75,
+        "Longitude": 78.16666666666667,
+        "city": null,
+        "village": null,
+        "district": "salem",
+        "state": "tamil nadu"
+    }
+]
